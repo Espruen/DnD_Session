@@ -10,7 +10,7 @@
 \contentsline {subsubsection}{1c. Village}{2}{}%
 \contentsline {subsection}{2. House of Orlovski}{2}{}%
 \contentsline {subsubsection}{2a. Ballroom}{2}{}%
-\contentsline {part}{\numberline {2}Session 7's Adventure Log}{3}{}%
+\contentsline {part}{\numberline {2}Adventure's Log}{3}{}%
 \contentsline {chapter}{\numberline {2}Ballroom Blitz}{4}{}%
 \contentsline {section}{Ballroom}{4}{}%
 \contentsline {section}{Start of Combat}{4}{}%

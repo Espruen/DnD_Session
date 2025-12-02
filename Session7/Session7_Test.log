@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.11.30)  30 NOV 2025 22:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.11.30)  1 DEC 2025 22:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1148,11 +1148,6 @@ LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <14.4> not available
 LaTeX Font Info:    Font shape `T1/pbk/m/sc' in size <12> not available
 (Font)              Font shape `T1/pbk/l/sc' tried instead on input line 4.
 
-Overfull \hbox (15.11832pt too wide) in paragraph at lines 13--13
-[]|\T1/pbk/l/sc/14.4 (-20) Part 2: Ses-sion 7's Ad-ven-ture 
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 20--20
 []|\T1/pbk/l/sc/14.4 (+20) Part 3: At-tacks Dur-ing 
  []
@@ -1237,9 +1232,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/jkpss/b/sc/10'.
 (microtype)             Ignoring protrusion settings for this character.
+
+
+LaTeX Font Warning: Font shape `T1/jkpss/b/scit' undefined
+(Font)              using `T1/jkpss/b/scsl' instead on input line 81.
+
 LaTeX Font Info:    Trying to load font information for T1+GilliusADFNoTwo-LF o
 n input line 81.
-
 (/usr/share/texlive/texmf-dist/tex/latex/gillius/T1GilliusADFNoTwo-LF.fd
 File: T1GilliusADFNoTwo-LF.fd 2013/11/03 (autoinst) Font definitions for T1/Gil
 liusADFNoTwo-LF.
@@ -1252,56 +1251,56 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 81.
+LaTeX Font Info:    Font shape `T1/GilliusADFNoTwo-LF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 83.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 86.
+Package pdftex.def Info: img/paper.jpg  used on input line 92.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 86.
+Package pdftex.def Info: img/paper.jpg  used on input line 92.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 86.
+Package pdftex.def Info: img/paper.jpg  used on input line 92.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 86.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 92.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 
 [2
 
 
 ]
-contour: Using 32 copies for `Part\ 2' on input line 86.
-contour: Using 32 copies for `Session' on input line 86.
-contour: Using 32 copies for `7's' on input line 86.
-contour: Using 32 copies for `Adventure' on input line 86.
-contour: Using 32 copies for `Log' on input line 86.
+contour: Using 32 copies for `Part\ 2' on input line 92.
+contour: Using 32 copies for `Adventure's' on input line 92.
+contour: Using 32 copies for `Log' on input line 92.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 86.
+Package pdftex.def Info: img/paper.jpg  used on input line 92.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 86.
+Package pdftex.def Info: img/paper.jpg  used on input line 92.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 86.
+Package pdftex.def Info: img/paper.jpg  used on input line 92.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 86.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 92.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [3
 
 
 ]
 Chapter 2.
-contour: Using 32 copies for `Chapter\ 2:' on input line 87.
-contour: Using 32 copies for `Ballroom' on input line 87.
-contour: Using 32 copies for `Blitz' on input line 87.
+contour: Using 32 copies for `Chapter\ 2:' on input line 93.
+contour: Using 32 copies for `Ballroom' on input line 93.
+contour: Using 32 copies for `Blitz' on input line 93.
 (./Adventure_Log.tex
 Package lettrine.sty Info: Targeted height = 41.41992pt
 (lettrine.sty)             (for loversize=0, accent excluded),
@@ -1331,40 +1330,40 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 80.
 ])
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 90.
+Package pdftex.def Info: img/paper.jpg  used on input line 96.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 90.
+Package pdftex.def Info: img/paper.jpg  used on input line 96.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 90.
+Package pdftex.def Info: img/paper.jpg  used on input line 96.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 90.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 96.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
  [5]
-contour: Using 32 copies for `Part\ 3' on input line 90.
-contour: Using 32 copies for `Attacks' on input line 90.
-contour: Using 32 copies for `During' on input line 90.
-contour: Using 32 copies for `Combat' on input line 90.
+contour: Using 32 copies for `Part\ 3' on input line 96.
+contour: Using 32 copies for `Attacks' on input line 96.
+contour: Using 32 copies for `During' on input line 96.
+contour: Using 32 copies for `Combat' on input line 96.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 90.
+Package pdftex.def Info: img/paper.jpg  used on input line 96.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 90.
+Package pdftex.def Info: img/paper.jpg  used on input line 96.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 90.
+Package pdftex.def Info: img/paper.jpg  used on input line 96.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 90.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 96.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [6
 
@@ -1382,19 +1381,19 @@ See the caption package documentation for explanation.
 
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 103.
+Package pdftex.def Info: img/paper.jpg  used on input line 109.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 103.
+Package pdftex.def Info: img/paper.jpg  used on input line 109.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/paper.jpg Graphic file (type jpg)
 <use img/paper.jpg>
-Package pdftex.def Info: img/paper.jpg  used on input line 103.
+Package pdftex.def Info: img/paper.jpg  used on input line 109.
 (pdftex.def)             Requested size: 614.33098pt x 794.99231pt.
 File: img/footerscroll.pdf Graphic file (type pdf)
 <use img/footerscroll.pdf>
-Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
+Package pdftex.def Info: img/footerscroll.pdf  used on input line 109.
 (pdftex.def)             Requested size: 614.33043pt x 43.36565pt.
 [7
 
@@ -1402,26 +1401,28 @@ Package pdftex.def Info: img/footerscroll.pdf  used on input line 103.
 
 ] (./Session7_Test.aux) ) 
 Here is how much of TeX's memory you used:
- 27616 strings out of 480247
- 566842 string characters out of 5896150
- 1222871 words of memory out of 5000000
- 44774 multiletter control sequences out of 15000+600000
- 532246 words of font info for 200 fonts, out of 8000000 for 9000
+ 27636 strings out of 480247
+ 567236 string characters out of 5896150
+ 1221871 words of memory out of 5000000
+ 44778 multiletter control sequences out of 15000+600000
+ 540980 words of font info for 210 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  119i,18n,122p,1010b,1233s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r
 .enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/gillius/gls_4bsedw.enc}</us
 r/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Bold.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Regul
-ar.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn.pfb><
+</usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2-Itali
+c.pfb></usr/share/texlive/texmf-dist/fonts/type1/arkandis/gillius/GilliusADFNo2
+-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/initials/RoyalIn
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/kpfonts/jkpssbsc8a.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/urw/bookman/ubkli8a.pfb>
-Output written on Session7_Test.pdf (9 pages, 1721224 bytes).
+Output written on Session7_Test.pdf (9 pages, 1735941 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+ 88 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 84503 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 91159 words of extra memory for PDF output out of 106986 (max. 10000000)
 
