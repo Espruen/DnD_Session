@@ -1,0 +1,6 @@
+#Ignore files generated from LaTeX
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.xdp*
