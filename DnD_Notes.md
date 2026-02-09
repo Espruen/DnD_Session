@@ -897,7 +897,8 @@ Brolasi and Nova use their spells to make the guards trust the party and go back
 ON the map we're told about the different houses
 We pull up to Olafski and it is busy: people going in and out, music playing, and appears to be a party.
 
-Butler come up to us and welcome us to House Olafski and ask if we're here for the ball.
+Butler come up to us and welcome us to House 
++ and ask if we're here for the ball.
 
 We said yes and invite us in to the house. Hand us a basket with what appers to be thorn and glab a few masks for us. The thorns hurt us but he doens't feel the pain. 
 
@@ -954,9 +955,9 @@ Perception results
 Rayla notice the individual towards the front of the room 
     Drown Matron Mother, Vampire Umbral Lord, and Vampire Warden 
 
-Countess Katerina Orlovski have a LOT of make-up, hair shoot up; Very animated person
+Countess Katerina Olafski have a LOT of make-up, hair shoot up; Very animated person
 
-Count Aleksandr of Orlovski is the only person with a weapon (weapon) in the Ballroom
+Count Aleksandr of Olafski is the only person with a weapon (weapon) in the Ballroom
 
 ---------------------------------------------------------------------------------------
 Xucphr notice that in the shadow, in the corner, there is some kind of movement
@@ -1085,9 +1086,11 @@ Constitution saving throw between greg and reuben
 Rebuen and Greg ate 2 tables worth of the sandwich before feeling the pain
 At the 4th table they stopped and they felt something trying to come up.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Strength saving throw - 18
 
 Reuben and Gregory were able to stop the food coming up
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Reuben and Gregory went in on the last 3 tables. People making bets and exchanging money.
 THey finished the sandwich, everyone cheered and were happy that they finished
@@ -1098,10 +1101,12 @@ the assassination attempt was a failure; unsuccessful. They talked about another
 Rayla notice that the halls are very empty; at least a servant would be around working.
 Most of the doors are locked except for one unique ordane door.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Perception check - 20
 
 Rayla listen to the door and heard "screaming nature". Pain noise and whipping sound. Also sounds like the Countress chastising someone.
 Verbal torture and how someone failed her today and will not happen again. "Yess my COuntress"
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Xucphr is amazed by Reuben and Gregory and wanted to know if they want to try 12 tables next
 
@@ -1133,7 +1138,7 @@ Rayla came back up to talk abouit what she saw.The familiar stumbled from hunger
 
 
 Rayla goes back out to investigate
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 23 on percepitionm
 
 Rayla look upstairsa and found 7 guys and one girl in a room 
@@ -1141,11 +1146,11 @@ Rayla look upstairsa and found 7 guys and one girl in a room
 The two familiars that familiars saw were female
 The one Pyretrix saw were men.
 The people rayla saw were all men who were bleeding out
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 LONG REST
 
 Familiar came to our room to greet us. Told us that it is moroning
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Perception check
@@ -1171,7 +1176,9 @@ The familiar
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Pyretrix rolled 12 for intellegence check
 Pytretrix would know that feeing them an excessive amount of calories would kill him.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Pyretrix rolled a 1 on an intellegence check to see if he can remove enough calories to not kill them.
 xucphr rolled an 18
 Pyretrix was able to give the familar enough food to not kill him
@@ -1199,8 +1206,9 @@ Ruben 16
 
 We hear yelling in the hallway
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-We hear the female yelling at a male familiar and switch languages
+We hear the female familiar yelling at a male familiar and switch languages
 "The countress has been looking for you. 
+Afterwards the female familiar walked away really fast
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Pyretrix  - 6
@@ -1277,6 +1285,7 @@ Xucphr continues to convulse violenty
 
 Xucphr fingernails grows into tallons
 Gained secondary fangs, Tusk is larger
+Xucphr look more beastly than the other two.
 
 Xucphr rolled one more constition saving throw - 17
 
@@ -1284,7 +1293,7 @@ The convulsion stopped.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Xucphr look more beasly than the other two. Eyes are glowing red, look pale. 
+Eyes are glowing red, look pale. 
 No looks fit. Looked scrawny. Went from 5'3 to 6'2; Like captain american during treatment.
 All gained blessings of the vampire. Gain two levels of exhaustion.
 Take a long rest and a feeding or two long rest.
