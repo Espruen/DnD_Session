@@ -1051,4 +1051,315 @@ Xucphr loot the assassins (need to add)
 Level up: 6
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
 End of Session 7
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2026-02-07 Session 8
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+After the chaos of the masquerade and the conversation with the dutchess. She has gone away to her room to rest
+followed by her personal guard. She wanted the festivitities to continue til dawn and everyone partied again.
+
+Gregory "If we get every piece of meat and cheese we could make a bigger sandwich?!"
+Reuben agreed with Gregory's plan, shoved everyone from the table and started taking food. Decided to talk to the
+professor after he saved his life. Professor acknowledge the thanks and decided to try and keep he cool for future events.
+
+Profesor noted that Gregory is a douche and shouldn't trust him. 
+Gregory stacked the table with so much food, it looked like a mountain. Gregory yelling at the familiar about getting more bread.
+The sandwich is almost 6 tables in length and thick. Took almost an hour to construct the sandwich and prepare to eat.
+
+Rayla goes outside to try to see what's happening outside the ballroom.
+Xucphr just cheer with all of his heart to Reuben and Gregory. Gregory and Reuben gain inspiration
+
+Pyretrix took a big piece of the sandwich
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pyretrix rolled 22 on slight of hand 
+reuben rolled 17
+Gregory 0 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pytretrix took a chunk of the sandwich
+
+Constitution saving throw between greg and reuben 
+
+Rebuen and Greg ate 2 tables worth of the sandwich before feeling the pain
+At the 4th table they stopped and they felt something trying to come up.
+
+Strength saving throw - 18
+
+Reuben and Gregory were able to stop the food coming up
+
+Reuben and Gregory went in on the last 3 tables. People making bets and exchanging money.
+THey finished the sandwich, everyone cheered and were happy that they finished
+
+As the entire ballroom is distracted, Rayla sneaked out and heard two about the sandwich getting ate. Afterwards they talked about
+the assassination attempt was a failure; unsuccessful. They talked about another assassination attempt to the Countress.
+
+Rayla notice that the halls are very empty; at least a servant would be around working.
+Most of the doors are locked except for one unique ordane door.
+
+Perception check - 20
+
+Rayla listen to the door and heard "screaming nature". Pain noise and whipping sound. Also sounds like the Countress chastising someone.
+Verbal torture and how someone failed her today and will not happen again. "Yess my COuntress"
+
+Xucphr is amazed by Reuben and Gregory and wanted to know if they want to try 12 tables next
+
+Pyretrix went around and apologized on behalf of the team and the aristocrats were fine
+
+All the Aristocrats were going to be starving. Pyretrix gave away 6 of the rations to help them. 
+Pyretrix took some rations for Reuben and was able to provide 12.
+
+All the familiars went to the back after collecting the foodo and then they went back out to give Pyretrix a big bottle.
+Pyretrix drunk some of the drink and gave the sandwich that he took.
+
+Pyretrix and Xucphr help Reuben and Gregory to a room to rest. The room in the back was very nice. Every bed was a California king size bed.
+Very comfortable. The minute you lay in the bed you sink into it.
+"Ring the bell and one of us will come" said one of the servants.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Xucphr perception check - 18
+NO traps nor trickery in the room
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Rayla still looking around, went downstairs
+Rayla hear wimpering and cries behind some of the doors.
+
+There are cages and there are several individuals who are connected to a device that make them constantly bleed.
+About 30 people in the room.
+
+Rayla came back up to talk abouit what she saw.The familiar stumbled from hunger
+
+
+Rayla goes back out to investigate
+
+23 on percepitionm
+
+Rayla look upstairsa and found 7 guys and one girl in a room 
+
+The two familiars that familiars saw were female
+The one Pyretrix saw were men.
+The people rayla saw were all men who were bleeding out
+
+LONG REST
+
+Familiar came to our room to greet us. Told us that it is moroning
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Xucphr -19 
+Rayla - 23 
+Pyretrix - 11
+Reubin - 2
+
+Pass: 10 
+
+
+Familiars that came in have bandages with fresh blood stains on their neck.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Familiar licked his lips after providing drinks and walked out before Pyretrix could offer some drinks.
+
+Familiar came back with two massive pasteries and earl grey tea
+Coated in chocolates and jelly filling
+
+Pytretrix put a hand on the familiar for thanks and the familiar flinches.
+Pytretrix decided to split the pasteries with the familiar and to ask a few questions.
+The familiar 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pyretrix rolled 12 for intellegence check
+Pytretrix would know that feeing them an excessive amount of calories would kill him.
+
+Pyretrix rolled a 1 on an intellegence check to see if he can remove enough calories to not kill them.
+xucphr rolled an 18
+Pyretrix was able to give the familar enough food to not kill him
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Pytretrix asked the familiar what can you tell us about the people chained downstairs
+
+Familiar looked at us and said "It is the tides"
+"Could you elaborate?"
+Familiar showed his neck and showed two punchtures on the side of his neck.
+
+We give and we are gifted with everlasting life if we survive.
+
+Majority are there willing.
+Rest are criminals: murder and thieves.
+
+The criminals are bleed dried.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Xucphr 15
+Rayla 19
+Pyretrix 8
+Ruben 16
+
+We hear yelling in the hallway
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+We hear the female yelling at a male familiar and switch languages
+"The countress has been looking for you. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pyretrix  - 6
+rayla - 9 
+xucphr 12
+ruben 8
+
+We don't know where she went after talking to the familiar.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+After the lashing, No kept moving and we tried to stop him.
+
+Women here are the only ones who can ascend the levels of matriarch. Men can only stay servant.
+
+Alexander of orlofski is the greatest swordsman in the land
+No seems like they are ok with the liefstyle here.
+
+Rayla keep asking about Solstace and how to be come a citizen.
+
+Reuben wake up Gregory so that we can go to the COuntress about Xucphr's hunger
+
+Familar take us to Countress and went to a very big room where everything is red, black, and gold
+She's in a really nice formal nightgown.
+
+All the wounds she suffered was gone. SHe recovered
+Countress complimented Rayla's outfit
+
+Countress told Xucphr "walk with me" and she start discussing about the hunger.
+As walking by, she explained the history of vampirism
+Vampirism comes from the hunger
+It was a way for the people of this land to take the hunger and instead of consuming them,
+they beat it into submission and made it into something beneficial. The curse of the hunger became the blessing of vampirism.
+There's a very extensive/dangerous ritual to subdue the hunger without becoming a vampire. It's very wishy-washy
+If it doesn't work then the hunger becomes worse. No diea what the changes of the ritual succeeding 
+
+Can become:
+Scion of count orlofski and can go about my way. Ath the end of the day, Xucpher belong to her
+
+The Countress said she doesn't mind sharing. Xucphr agreed to the Countress deal.
+Rayla want to turn into a vampire.
+Countress get out whip and said "Come with mommy". Alexander is there to witness everything
+
+
+Alexander points to everyone and said "you must all stay your hands"
+When you see what happens next, you are not to act.
+
+
+We asked for No to receive the gift as well since we think he deserve it.
+No comes over to the Countress, size him up, and says "Very well"
+
+We found out Werewolves exist and must come into contact to be turnt.
+
+We go into a hidden chamber. The chamber is very vampirish (stereotype)
+She walk over to the basin and take her index finger, jam it into her forearm and drag it to the palm of her hand.
+
+She let the blood fill the basin before she heals it back up.
+"Not a drop can be wasted"
+The three of us start drinking and emptied the basin.
+Alexander tell us all the back up, except for the three.
+Draw his sword and stands there, afterwards Countress points to three servants and slit our throats; beheaded us
+
+All 3 fall onto the ground dead
+The color of the body fade, bodies start to convulse violently.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Constitution saving throw
+Rayla 24
+no 20
+Xucphr 5
+
+Rayla and No stopped
+Xucphr continues to convulse violenty
+
+Xucphr fingernails grows into tallons
+Gained secondary fangs, Tusk is larger
+
+Xucphr rolled one more constition saving throw - 17
+
+The convulsion stopped.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Xucphr look more beasly than the other two. Eyes are glowing red, look pale. 
+No looks fit. Looked scrawny. Went from 5'3 to 6'2; Like captain american during treatment.
+All gained blessings of the vampire. Gain two levels of exhaustion.
+Take a long rest and a feeding or two long rest.
+
+
+Countress said "You must be famished. Please come" She walks back to her room and poured out a decantor 
+Pour a glass for xucphr, No and Rayla.
+Alexander asked for the Countress.
+Countress: now for the introduction into House of Orlovski
+
+Xucphr Moriz of Orlovski
+Rayla of Orlovski
+No of Orlovski
+
+No will be part of the breeding stock.
+Rayla said we have to find two coffins and cloaks
+Given leather armor and Black steel coffins
+AC of 19
+
+Pyretrix asked a couple of questions about evil witches.
+Countress said Rayla's homeland is full of fae magic
+She's from lorenthar and the king's daughter
+
+Rayla asked the COuntress asked where we could find cloaks to go into the sunlight
+Countress said we could go to Thalvarien
+
+Coutress provided 4 blood bottles to Rayla.
+Countress knows everything about us and our past.
+Other ways of communication
+
+Not able to wander around the cities unless you're under a house.
+Night wardens watch over the matriarch in night. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Xucphr 9
+Pyretrix 12
+Ruben -16
+Rayla 19
+
+When Alexander hear Countress said "We're her savior" he looks sad, then turn back to stone faced
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Suzanna the familiar will be able to escourt pyretrix and ruben.
+Rayla asked if she could tell us where the magic shops are.
+She takes us to a couple of stores.
+
+
+As we were traveling throug the town. One of the magic shops had a familiar wand
+The barter wanted to 
+Rayla bought the wand of impossible girth for 20 gold pieces
+
+
+Time skip back to town
+We creep back into sleepy town
+it is the middle of winter and the town look more rundown than it use to be
+People outside look like they're having a rough time
+We came to Kookie tavern and it is gone ( destroyed)
+
+Someone in front of the tavern and placed flowers
+As we get closer Kara is pregnant
+Kara with child was cried and told us about the tavern burned with cookie inside.
+The dutchess burned the building down while he was inside. Kookie wouldn't pay any more taxes.
+
+The daughter kept begging kookie to pay the taxes. 
+The twins survived but left town. They couldn't bear to stay around
+
+
+The duke was executed and the dutchess took control.
+Dutchess got a new advisor - looks human - named agosh
+
+Kara confirmed that the dutchess took over the town and raised taxes like crazy
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+End of Session 8
+%%%%%%%%%%%%%%%%%%%%%%%%%
