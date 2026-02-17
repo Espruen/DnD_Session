@@ -878,7 +878,7 @@ We stop at the gate and there are guards at the entrance
 We are 2 hours into the day cycle when we get to the gate. At the final part of the journey.
 
 History check
-    Orlafski - a name that we found in the journal from the cave of our last adventure
+    Orlovski - a name that we found in the journal from the cave of our last adventure
 
 Persuasion check 
 Ruben - 13
@@ -895,7 +895,7 @@ The guards believe Pyretrix but not Ruben. Ruben was able to persuade the guards
 Brolasi and Nova use their spells to make the guards trust the party and go back to the gate (looking at Ruben in disgust)
 
 ON the map we're told about the different houses
-We pull up to Olafski and it is busy: people going in and out, music playing, and appears to be a party.
+We pull up to Orlovski and it is busy: people going in and out, music playing, and appears to be a party.
 
 Butler come up to us and welcome us to House 
 + and ask if we're here for the ball.
@@ -955,9 +955,9 @@ Perception results
 Rayla notice the individual towards the front of the room 
     Drown Matron Mother, Vampire Umbral Lord, and Vampire Warden 
 
-Countess Katerina Olafski have a LOT of make-up, hair shoot up; Very animated person
+Countess Katerina Orlovski have a LOT of make-up, hair shoot up; Very animated person
 
-Count Aleksandr of Olafski is the only person with a weapon (weapon) in the Ballroom
+Count Aleksandr of Orlovski is the only person with a weapon (weapon) in the Ballroom
 
 ---------------------------------------------------------------------------------------
 Xucphr notice that in the shadow, in the corner, there is some kind of movement
@@ -1059,8 +1059,9 @@ End of Session 7
 2026-02-07 Session 8
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-After the chaos of the masquerade and the conversation with the dutchess. She has gone away to her room to rest
-followed by her personal guard. She wanted the festivitities to continue til dawn and everyone partied again.
+After the chaos of the masquerade and the conversation with the Countress. The Countress has gone away to her room to rest
+followed by her personal guard. She asked that the festivitities to continue til dawn and everyone have fun.
+The guest started to move around and the party started again.
 
 Gregory "If we get every piece of meat and cheese we could make a bigger sandwich?!"
 Reuben agreed with Gregory's plan, shoved everyone from the table and started taking food. Decided to talk to the
@@ -1070,30 +1071,57 @@ Profesor noted that Gregory is a douche and shouldn't trust him.
 Gregory stacked the table with so much food, it looked like a mountain. Gregory yelling at the familiar about getting more bread.
 The sandwich is almost 6 tables in length and thick. Took almost an hour to construct the sandwich and prepare to eat.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Stealth Check
+Rayla - 22
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Rayla goes outside to try to see what's happening outside the ballroom.
 Xucphr just cheer with all of his heart to Reuben and Gregory. Gregory and Reuben gain inspiration
 
-Pyretrix took a big piece of the sandwich
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Pyretrix rolled 22 on slight of hand 
 reuben rolled 17
 Gregory 0 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Pytretrix took a chunk of the sandwich
+Pytretrix took a chunk of the sandwich; A very big chunk of the sandwich.
+Gregory and Reuben did not notice that parts of the sandwich was missing.
 
+Gregory and Reuben begin eating the sandwich. During this time the entire guests paid attention
+to this monster of a sandwich. Xucphr was supporing his teammates with cheers so much that
+this gave inspiration to Gregory and Reuben.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Constitution saving throw between greg and reuben 
+Advantage
+R&G Table 1 18 & 20
+R&G Table 2 16 & 13
 
 Rebuen and Greg ate 2 tables worth of the sandwich before feeling the pain
+
+R&G Table 3 7 & 12
+R&G Table 4 5 & 9
+
 At the 4th table they stopped and they felt something trying to come up.
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%
 Strength saving throw - 18
+%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Reuben and Gregory were able to stop the food coming up
+Reuben and Gregory were able to stop the food coming up from sheer strength and willpower
+Reuben and Gregory went in on the last 3 tables. People making bets and exchanging money.
+
+
+R&G Table 5 5 & 23
+R&G Table 6 17 & 23
+
+THey finished the sandwich, everyone cheered and were happy that they finished
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Reuben and Gregory went in on the last 3 tables. People making bets and exchanging money.
-THey finished the sandwich, everyone cheered and were happy that they finished
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+Rayla Investigation check - 19
+%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 As the entire ballroom is distracted, Rayla sneaked out and heard two about the sandwich getting ate. Afterwards they talked about
 the assassination attempt was a failure; unsuccessful. They talked about another assassination attempt to the Countress.
@@ -1102,6 +1130,7 @@ Rayla notice that the halls are very empty; at least a servant would be around w
 Most of the doors are locked except for one unique ordane door.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 Perception check - 20
 
 Rayla listen to the door and heard "screaming nature". Pain noise and whipping sound. Also sounds like the Countress chastising someone.
@@ -1110,26 +1139,34 @@ Verbal torture and how someone failed her today and will not happen again. "Yess
 
 Xucphr is amazed by Reuben and Gregory and wanted to know if they want to try 12 tables next
 
-Pyretrix went around and apologized on behalf of the team and the aristocrats were fine
+Pyretrix went around and apologized on behalf of the team and the aristocrats were happy about the ordeal.
 
-All the Aristocrats were going to be starving. Pyretrix gave away 6 of the rations to help them. 
+The familiars were planning to eat the leftovers from the party but Reuben and Gregory at all the food at the estate.
+The familairs are going to be starving; At least 12 familiars. Pyretrix gave away 6 of the rations to help them. 
 Pyretrix took some rations for Reuben and was able to provide 12.
 
-All the familiars went to the back after collecting the foodo and then they went back out to give Pyretrix a big bottle.
+All the familiars went to the back after collecting the food, then came back out to give Pyretrix a big bottle of what appears to be a drink.
 Pyretrix drunk some of the drink and gave the sandwich that he took.
 
-Pyretrix and Xucphr help Reuben and Gregory to a room to rest. The room in the back was very nice. Every bed was a California king size bed.
+Pyretrix and Xucphr help Reuben and Gregory to the room in the back to rest. The room in the back was very nice. Every bed was a California king size bed.
 Very comfortable. The minute you lay in the bed you sink into it.
-"Ring the bell and one of us will come" said one of the servants.
+"Ring the bell and one of us will come" said one of the servants before leaving the room.
 
-
+Xucphr checked the room for any traps or spells that were waiting for them.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Xucphr perception check - 18
 NO traps nor trickery in the room
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Rayla stealth check - 21
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 Rayla still looking around, went downstairs
 Rayla hear wimpering and cries behind some of the doors.
+
+Rayla slowly opened the door that no one in the room would notice her.
 
 There are cages and there are several individuals who are connected to a device that make them constantly bleed.
 About 30 people in the room.
@@ -1157,7 +1194,7 @@ Perception check
 Xucphr -19 
 Rayla - 23 
 Pyretrix - 11
-Reubin - 2
+Reuben - 2
 
 Pass: 10 
 
@@ -1223,7 +1260,7 @@ After the lashing, No kept moving and we tried to stop him.
 
 Women here are the only ones who can ascend the levels of matriarch. Men can only stay servant.
 
-Alexander of orlofski is the greatest swordsman in the land
+Alexander of Orlovski is the greatest swordsman in the land
 No seems like they are ok with the liefstyle here.
 
 Rayla keep asking about Solstace and how to be come a citizen.
@@ -1245,7 +1282,7 @@ There's a very extensive/dangerous ritual to subdue the hunger without becoming 
 If it doesn't work then the hunger becomes worse. No diea what the changes of the ritual succeeding 
 
 Can become:
-Scion of count orlofski and can go about my way. Ath the end of the day, Xucpher belong to her
+Scion of count Orlovski and can go about my way. Ath the end of the day, Xucpher belong to her
 
 The Countress said she doesn't mind sharing. Xucphr agreed to the Countress deal.
 Rayla want to turn into a vampire.
