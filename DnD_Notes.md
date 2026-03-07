@@ -878,7 +878,7 @@ We stop at the gate and there are guards at the entrance
 We are 2 hours into the day cycle when we get to the gate. At the final part of the journey.
 
 History check
-    Orlafski - a name that we found in the journal from the cave of our last adventure
+    Orlovski - a name that we found in the journal from the cave of our last adventure
 
 Persuasion check 
 Ruben - 13
@@ -895,9 +895,10 @@ The guards believe Pyretrix but not Ruben. Ruben was able to persuade the guards
 Brolasi and Nova use their spells to make the guards trust the party and go back to the gate (looking at Ruben in disgust)
 
 ON the map we're told about the different houses
-We pull up to Olafski and it is busy: people going in and out, music playing, and appears to be a party.
+We pull up to Orlovski and it is busy: people going in and out, music playing, and appears to be a party.
 
-Butler come up to us and welcome us to House Olafski and ask if we're here for the ball.
+Butler come up to us and welcome us to House 
++ and ask if we're here for the ball.
 
 We said yes and invite us in to the house. Hand us a basket with what appers to be thorn and glab a few masks for us. The thorns hurt us but he doens't feel the pain. 
 
@@ -1058,8 +1059,9 @@ End of Session 7
 2026-02-07 Session 8
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-After the chaos of the masquerade and the conversation with the dutchess. She has gone away to her room to rest
-followed by her personal guard. She wanted the festivitities to continue til dawn and everyone partied again.
+After the chaos of the masquerade and the conversation with the Countress. The Countress has gone away to her room to rest
+followed by her personal guard. She asked that the festivitities to continue til dawn and everyone have fun.
+The guest started to move around and the party started again.
 
 Gregory "If we get every piece of meat and cheese we could make a bigger sandwich?!"
 Reuben agreed with Gregory's plan, shoved everyone from the table and started taking food. Decided to talk to the
@@ -1069,28 +1071,57 @@ Profesor noted that Gregory is a douche and shouldn't trust him.
 Gregory stacked the table with so much food, it looked like a mountain. Gregory yelling at the familiar about getting more bread.
 The sandwich is almost 6 tables in length and thick. Took almost an hour to construct the sandwich and prepare to eat.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Stealth Check
+Rayla - 22
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Rayla goes outside to try to see what's happening outside the ballroom.
 Xucphr just cheer with all of his heart to Reuben and Gregory. Gregory and Reuben gain inspiration
 
-Pyretrix took a big piece of the sandwich
+
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Pyretrix rolled 22 on slight of hand 
 reuben rolled 17
 Gregory 0 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Pytretrix took a chunk of the sandwich
+Pytretrix took a chunk of the sandwich; A very big chunk of the sandwich.
+Gregory and Reuben did not notice that parts of the sandwich was missing.
 
+Gregory and Reuben begin eating the sandwich. During this time the entire guests paid attention
+to this monster of a sandwich. Xucphr was supporing his teammates with cheers so much that
+this gave inspiration to Gregory and Reuben.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Constitution saving throw between greg and reuben 
+Advantage
+R&G Table 1 18 & 20
+R&G Table 2 16 & 13
 
 Rebuen and Greg ate 2 tables worth of the sandwich before feeling the pain
+
+R&G Table 3 7 & 12
+R&G Table 4 5 & 9
+
 At the 4th table they stopped and they felt something trying to come up.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%
 Strength saving throw - 18
+%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Reuben and Gregory were able to stop the food coming up
-
+Reuben and Gregory were able to stop the food coming up from sheer strength and willpower
 Reuben and Gregory went in on the last 3 tables. People making bets and exchanging money.
+
+
+R&G Table 5 5 & 23
+R&G Table 6 17 & 23
+
 THey finished the sandwich, everyone cheered and were happy that they finished
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+Rayla Investigation check - 19
+%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 As the entire ballroom is distracted, Rayla sneaked out and heard two about the sandwich getting ate. Afterwards they talked about
 the assassination attempt was a failure; unsuccessful. They talked about another assassination attempt to the Countress.
@@ -1098,33 +1129,44 @@ the assassination attempt was a failure; unsuccessful. They talked about another
 Rayla notice that the halls are very empty; at least a servant would be around working.
 Most of the doors are locked except for one unique ordane door.
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 Perception check - 20
 
 Rayla listen to the door and heard "screaming nature". Pain noise and whipping sound. Also sounds like the Countress chastising someone.
 Verbal torture and how someone failed her today and will not happen again. "Yess my COuntress"
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Xucphr is amazed by Reuben and Gregory and wanted to know if they want to try 12 tables next
 
-Pyretrix went around and apologized on behalf of the team and the aristocrats were fine
+Pyretrix went around and apologized on behalf of the team and the aristocrats were happy about the ordeal.
 
-All the Aristocrats were going to be starving. Pyretrix gave away 6 of the rations to help them. 
+The familiars were planning to eat the leftovers from the party but Reuben and Gregory at all the food at the estate.
+The familairs are going to be starving; At least 12 familiars. Pyretrix gave away 6 of the rations to help them. 
 Pyretrix took some rations for Reuben and was able to provide 12.
 
-All the familiars went to the back after collecting the foodo and then they went back out to give Pyretrix a big bottle.
+All the familiars went to the back after collecting the food, then came back out to give Pyretrix a big bottle of what appears to be a drink.
 Pyretrix drunk some of the drink and gave the sandwich that he took.
 
-Pyretrix and Xucphr help Reuben and Gregory to a room to rest. The room in the back was very nice. Every bed was a California king size bed.
+Pyretrix and Xucphr help Reuben and Gregory to the room in the back to rest. The room in the back was very nice. Every bed was a California king size bed.
 Very comfortable. The minute you lay in the bed you sink into it.
-"Ring the bell and one of us will come" said one of the servants.
+"Ring the bell and one of us will come" said one of the servants before leaving the room.
 
-
+Xucphr checked the room for any traps or spells that were waiting for them.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Xucphr perception check - 18
 NO traps nor trickery in the room
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Rayla stealth check - 21
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 Rayla still looking around, went downstairs
 Rayla hear wimpering and cries behind some of the doors.
+
+Rayla slowly opened the door that no one in the room would notice her.
 
 There are cages and there are several individuals who are connected to a device that make them constantly bleed.
 About 30 people in the room.
@@ -1133,7 +1175,7 @@ Rayla came back up to talk abouit what she saw.The familiar stumbled from hunger
 
 
 Rayla goes back out to investigate
-
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 23 on percepitionm
 
 Rayla look upstairsa and found 7 guys and one girl in a room 
@@ -1141,18 +1183,18 @@ Rayla look upstairsa and found 7 guys and one girl in a room
 The two familiars that familiars saw were female
 The one Pyretrix saw were men.
 The people rayla saw were all men who were bleeding out
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 LONG REST
 
 Familiar came to our room to greet us. Told us that it is moroning
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Perception check
 Xucphr -19 
 Rayla - 23 
 Pyretrix - 11
-Reubin - 2
+Reuben - 2
 
 Pass: 10 
 
@@ -1171,7 +1213,9 @@ The familiar
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Pyretrix rolled 12 for intellegence check
 Pytretrix would know that feeing them an excessive amount of calories would kill him.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Pyretrix rolled a 1 on an intellegence check to see if he can remove enough calories to not kill them.
 xucphr rolled an 18
 Pyretrix was able to give the familar enough food to not kill him
@@ -1199,8 +1243,9 @@ Ruben 16
 
 We hear yelling in the hallway
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-We hear the female yelling at a male familiar and switch languages
+We hear the female familiar yelling at a male familiar and switch languages
 "The countress has been looking for you. 
+Afterwards the female familiar walked away really fast
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Pyretrix  - 6
@@ -1215,7 +1260,7 @@ After the lashing, No kept moving and we tried to stop him.
 
 Women here are the only ones who can ascend the levels of matriarch. Men can only stay servant.
 
-Alexander of orlofski is the greatest swordsman in the land
+Alexander of Orlovski is the greatest swordsman in the land
 No seems like they are ok with the liefstyle here.
 
 Rayla keep asking about Solstace and how to be come a citizen.
@@ -1237,7 +1282,7 @@ There's a very extensive/dangerous ritual to subdue the hunger without becoming 
 If it doesn't work then the hunger becomes worse. No diea what the changes of the ritual succeeding 
 
 Can become:
-Scion of count orlofski and can go about my way. Ath the end of the day, Xucpher belong to her
+Scion of count Orlovski and can go about my way. Ath the end of the day, Xucpher belong to her
 
 The Countress said she doesn't mind sharing. Xucphr agreed to the Countress deal.
 Rayla want to turn into a vampire.
@@ -1277,6 +1322,7 @@ Xucphr continues to convulse violenty
 
 Xucphr fingernails grows into tallons
 Gained secondary fangs, Tusk is larger
+Xucphr look more beastly than the other two.
 
 Xucphr rolled one more constition saving throw - 17
 
@@ -1284,7 +1330,7 @@ The convulsion stopped.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-Xucphr look more beasly than the other two. Eyes are glowing red, look pale. 
+Eyes are glowing red, look pale. 
 No looks fit. Looked scrawny. Went from 5'3 to 6'2; Like captain american during treatment.
 All gained blessings of the vampire. Gain two levels of exhaustion.
 Take a long rest and a feeding or two long rest.
@@ -1362,4 +1408,517 @@ Kara confirmed that the dutchess took over the town and raised taxes like crazy
 
 %%%%%%%%%%%%%%%%%%%%%%%%%
 End of Session 8
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2026-02-21 Session 9
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Rayla and Xucphr have been turned to vampires. On the journey back, we learned that the Cooky's tavern was burned down with him in it.
+All done by the dutchess. The duke is no longer amonst the living as well.
+
+Time of day - Night 10pm
+
+We asked Kara where we could stay but not enough places where we can stay. We decided to set up camp outside.
+Split away from kara and stayed towards the woods near the castle. It is winter so we'll need to start a fire.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Survival check Pyretrix 6 
+
+Pyretrix collectd a few dry wood but was able to create a small fire. It's more for light than to keep predators away
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+anIMAL HANDLING
+XZUcphr 15 
+Reuben 5
+
+Xucphr axe beak responding well to the environment and the dark
+Reuben axebeak having a hard time adapting to everything, weather, darkness, etc.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Reuben 17
+Reuben takes 8 damage from the axebeak. THe axebeak knock him hard with the beak.
+
+Animal handling check 17 Reuben
+Reuben was able to calm him down. Axebeak is now subdue.
+
+Xucphr takes watch for the whole night
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Xucphr 7
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Rayla - INvestigation 15
+
+Nothing crazy. SOme wolves and deer but just wandering around
+
+Rayla decided to try and scout the castle to find a more secure route. Gregory came with.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Stealth check
+Rayla 20
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Rayla tried to investigate a way into the keep and study the guard's pattern
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Investigation check
+Rayla 2
+Greg 7
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Gregory is having an off day with trying to sneak with Rayla. Gregory bumping into crates
+and walls. Somehow Rayla and Gregory were able to sneak through
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+INvestigation
+Rayla 4
+Rayla was not able to find anything to sneak into the keep.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+The place where the Sensational seven were able to sneak in before is all patched and fixed
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception
+Rayla 22
+Rayla see the duke and his body is hanigng in the front of the keep. He was vivasected
+Internals are hanging out, birds kept a nest inside and appeared to eat away the inside.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Rayla and Gregory attempt to sneak back out.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception
+Rayla 7
+
+Rayla and Gregory stobbed by the guards
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+"HALT! STATE YOUR BUSINESS" Rayla said that she's just traveling by 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Deception
+Rayla 10
+Guard knows that she's lying
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Rayla takes 7 damage as a spear comes through the sky and strike her in the arm.
+Rayla and Gregory now hear bells ringing and then they hear a large amount of footsteps heading their way.
+
+Something spoke to brolaski and brolaski started their prayer of protection.
+
+Rayla and Gregory attempt to run but another spear hit Rayla and Gregory takes 7 hits of damage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Survival
+Rayla - 15
+Gregory - 14
+
+Rayla and Gregory were able to get away from the guards
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Stealth - D
+Rayla - 19 & 8
+Gregory - 18 & 12  
+
+Guards are on their asses
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Greg gets hit once (6 hit) and rayla get hit twice (7 points)
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Survival
+Rayla - 1
+Gregory - 16 & 16
+
+Rayla and Gregory were able to get away from the guards
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Rayla go back, get Greg and Misty step with greg to take away.
+Rayla takes 3 damage
+Gregory takes 8 damage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Stealth check
+Rayla 13
+Gregory 19
+
+Made it past the treeline and made it safely
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Xucphr 4 
+
+See two figures coming at us at lightning speed 
+
+Wisdom check 
+
+Xucphr 7
+
+Use Moment to think and study the two figures that look like Rayla and Gregory
+
+Perception check 16
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Xucphr asked Rayla and gregory why they're sweating and hurt. They said they were sneaking aroud the keep.
+Able to make a break away from the guards and get back into the camp.
+Brolaski made a triage to mmend Rayla and Gregory to heal them completely.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+D100 check
+Xucphr 3 
+Rayla 88
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Xucphr need to feed. Brolaski offer a bloodledding to Xucphr to subdue the hunger.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+D20
+Xucphr -12
+Xucphr doens't go into a feeding frenzy when feeding from Brolaski.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Pyretrix said that we may need to walk to the front of the gate if there's no way to sneak into the place.
+Xucphr mention that Gregory and Rayla were notice and the guards may know their faces.
+Reuben said that the dutchess may not have left on a good note with the dutchess.
+Pyretrix said we can try to go around town, get some info from town, to see if we can sneak into the keep.
+
+Reuben suggest the apocathyr shop since they know our faces.
+
+We turned down for the night.
+
+LONG REST
+
+The team ride the carriage into the town. The closwer we come into town, the more smoke we see.
+We hear a few screams and we saw Kara stopped by a guard who asked Kara to tell kara to expose our location
+
+The town people who are dead are random citizens and the apoctrathy.
+
+START Battle - surprised atack
+Reuben restrained the guard from moving (entangled)
+Gregory moved right next to Kara 
+Pyretrix "you guys want it?! YO ugot it!" and start attaqcking one of the guards
+
+Brolaski attack the other guard near Pyretrix 
+Nova use finger guns to hit another guard from a distance
+Rayla failed pins and needles and she hit the guard captain with finger guns
+
+
+Xucphr cast fog towards Kara, use misty step, and walk towards Kara. 
+Xucphr use vampiric touch and hit the guard captain and drainied his blood.
+
+Brolaski hit by one of the guards (4pt damage)
+
+Normal battle
+
+Nova heard a noise around them
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Nova - 22
+Nova notice that it's not Reuben. It's a shadow demon
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Nova hear a demonic strange laughter from the shadow demon after Nova's attack.
+THe shadow demon is now prone. Then the shadow demon sto laughting
+
+Nova was hit by the shadow demaon 21 pt of damage. Claws dig into the side of Nova
+
+Kara attempt to free herself but failed
+Gregory attack the guard captain wiht his hammer. The guard captain doesn't look so hot
+
+Reuben attack the shadow demon and the guard captain.
+Pyretrix attempt to hit guard D but he hit him with another attack.
+The guard was bisected and died
+
+Brolasi swing at guard A and swong their sword towards their neck. Guard A died
+
+Xucphr blased the guard's head smoove off his shoulder
+
+Shadow demon miss the attack on Ruben. Shadow demon went through Reuben in an attempt to run away
+Reuben was shocked from this move and miss his attack.
+
+As Nova attempt to hit another guard, Nova took a hit and became down.
+Guard B attack Nova and nova became dead.
+
+Xucphr hit Demon B with eldrich damage
+Reuben walked out to shadow demon B and hit it with the bat.
+
+Gregory attacked Shadow Demon B as well and put some hurting on him
+Pyretrix rush towards shadow demon A in a rage over Nova's death (and the bar's destruction)
+
+Rayla hit shadow demon a with a powerful thunderbolt spell. The demon cries in pain
+Brolasi went ham on the Shadow Demon B and it scattered into the wind.
+
+Shadow demon A disappeared
+
+Xucpher perception check 18
+Xucpher knows where he Shadow Demon A is located
+
+Xucphr taken 2 shots of eldrich blast to hit him and it dies
+
+Brolasi said for us to do the ritual to make Nova a vampire as well
+
+Raya performs the ritual to make Nova a vampire by providing blood
+Const saving throw
+Nova - 19
+
+Some time passes and Nova became a vampire.
+
+Pyretrix wanted Xucphr to ask Kara what happened.
+Kara said the guards were trying to find the person who was trying to get into the keep.
+They were trying to find who it was and started executing people.
+We started to look at Rayla and Gregory.
+
+LONG REST
+
+
+
+LOOT:
+Got a cask worth of blood
+Rayla got a waterskin worth of blood
+
+AFTER BATTLE
+
+It's nighttime. We went towards the gate of the keep.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Xucphr 8
+reuben 17
+pyretrix 5
+rayla 14
+Nova 18
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Rayla stealth check 17-11 A 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+It's unusual because we drained the body but did not get rid of them. There's no sign of
+blood nor the body.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Arcana check if we're under an illusion
+zucphr 13
+Reuben 20
+
+No illusion
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+XZucphr cast Clue and found heavy foot tracks; verifying the people that disappear are real.
+
+We walk up to the gate and it opens for us and we stopped by night hag, commander listeria (commander of the duke personal guard), devil notary,
+two guards and we see several hell hound
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception
+xucpher 14
+brolasi 24
+nova 7
+pyratrix 12
+
+
+See shapes from side by side by in the shadows. Hell hounds not attacking us. 
+No one is attacking us. They are moved by command.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+The night hag said "Hello! Welcome to the keep"
+The night hag wanted to make sure we are comfortable as much as possible.
+She's sure the dutchess is ready to see us and she spoke highly of us.
+As we're being spoken to, the devil notary is just writing things down with a book bigger than him.
+Night hag mention the good of all the town is made.
+
+We asked why the dutchess wanted to see us? The Kosh spoken to an agreement and want to see us.
+
+Commander Listeria said we must released our weapons before walking through 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Persuasion check
+Xucphr 12 & 10 Advantage 
+
+Failed - We are no threat but it is not up to her to decide.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Deception for using the straff to walk
+Brolasi - 13 & 15 A
+
+
+Performance check
+Brolasi 10 & 7
+
+Commander Listeria said the staff can come with you.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Pyretrix tried to convince everyone the axe is a back scratcher
+
+Pyretrix did 20 damage to themselves
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Performance check
+Pyretrix 7 & 9
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Listeria said Pyretrix can hold on to his hand axe
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Slight of Hand - 7 Reuben to hide away the bat but Listeria saw the bat.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Persuation check - Xucphr 19
+Convince that Reuben's bat belong to one of the guards but Listeria said no.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Gregory gave up his hammer, Reuben his bat, and rayla her staff
+
+Listeria hit reuben (16 damage) with her hailberd and waiting for them to hand over their weapons.
+
+Devil Notary asking a lot of questions and writhing things down.
+Devil notary revealed he's writing down some contractoral agreements within our group and the dutchess
+
+We made it to the first level of the keep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+rayla 20
+Xucphr 19
+Brolasi 3
+Pyretrix 4
+Nova 8
+Reuben 19
+
+Listeria place the weapons into a lockbox and proceed to walk forwards
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Arcana check
+Pyretrix 0
+Reuben 8
+Xucphr 16
+
+Does not appear to have any enchantment on the lock.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Devil Notary (sid) requires us to have a signature for each of us. Trying to make sure he get a head count in the castle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Brolasi 15 Insight
+Check in sheet for each place we will be within the keep.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Arcana check Xucphr 9
+Ruben 19
+Brolasi 11
+Pyretrix 3
+rayla 15
+
+
+It's just a book but Pyretrix and Xucpher believe it will steal our soul
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Nova fake name star
+Pyretrix - Jonny stallman 
+Reuben - scribble
+Xucphr - boobookittyfuck2297
+Rayla - Nami
+Gregory just scratch some words 
+
+Said we can go head
+
+as we keep walking along, we saw a bone devil, Listeria is not comfortable around the book devil.
+Devil Notary shows the books to bone devil to show everything is in order and make sure they follow the rules
+Bone devil said "make sure we check out when leaving"
+
+We come into a large hall where we see the dutchess with two nobles as we come in with Listeria, Devil Notary, and Night Hag.
+
+What has gone one was a change has occurred within the land. The change is inevitable.
+Pyretrix rants about people dying in the street and how the change is hurting people
+
+"The duke was weak and must be dealt with, the dutchess is glorious and has an understand of why the change was needed"
+
+"you can either leave or stay but if you stay you will feel our actions."
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Wisdom saving throw
+Xucpher 10 & 21 A 
+Brolasi 22
+nova 5
+Pyretrix 6
+Reuben 6 
+rayla 4
+Gregory - 7
+
+Reuben - Everything goes black and then hear "What are you doing here?!"
+Reuben was reunited with Cooky. Cookey said he was waiting for them the whole time.
+Reuben was comfort by cooky and felt a hand on his shoulders. Reuben turned to see who it was.
+Reuben saw a burnt cookie
+
+Xucphr wasn't affected nor was brolasi. We see our teammates pupils dilated. Eyes went completely black and staring upwards.
+Each one has their own ticks.
+
+Pyretrix - Everything goes dark. Hears a voice: "Your timing was always off". Pyretrix eyes widen when he hear that voice.
+"Waste too much energy on that twist". 
+"Muzel is that you?!"
+Pyretrix was shocked to hear a familiar voice
+Pyretrix shaking, breaking composure
+
+Goes from black to normal and see a ward walk past him and tears into him.
+He looks at him and goes "if you were better, you might have made it"
+
+Rayla - Goes dark. Rayla see her father walk up to her and say "I'm sorry. SHould have never happened."
+"Tried to push my agenda and I'm sorry"
+"Youre right. I wouldn't say anything like that" Then slit ziggy's throat
+
+Gregory - Sees the Hag that takes his dick and walk up to him and tease him.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+They are surprised that Brolasi and Xucpher are not affected
+"Curious that we've aligned ourselves with a higher power"
+"You both have something, more than what can protect us"
+
+The noble looks like a human,
+Noble mention that Listeria had the desire to get away from the Duke and is now happy.
+Listeria seem happier that the duke is dead. The dutchess looks happy as he point to her.
+Xucpher mention if he love her and he said he loves all
+
+Horns start growing from his head and his body changes to look more demonic
+Greater succubus
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Wisdom saving throw
+Brolasi 6
+Nova 8 
+Pyretrix 12 
+Ruben 7
+Gregory -4
+
+Nightmares continue
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+End of Session 9
 %%%%%%%%%%%%%%%%%%%%%%%%%
