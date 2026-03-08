@@ -1922,3 +1922,408 @@ Nightmares continue
 %%%%%%%%%%%%%%%%%%%%%%%%%
 End of Session 9
 %%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2026-03-07 Session 10
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Const saving throw
+Pyretrix 15
+Ruben 19 
+Rayla 10
+
+Rayla still stuck in the nightmare where they play with ziggy's remains
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+COMBAT
+Pyretrix and Ruben broke out of the nightmare and are ready to attack!
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Nova dex thorow
+25
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+The hell hound escape the hunger of hadar in pain and nova blast the hell hound with finger guns.
+Hell hound spew fire from it's mouth but misses Nova completely, but still take damage from the heat intensity
+
+
+Xucphr yell at the night hag about Kara and the Night Hag heard Kara name.
+The Night Hag use Plane Shift 
+Commander Listeria use her halbard against ruben and a long sword in another hand
+
+Gregory is still in a state of ecstacy and Ruben shout at him to wake up
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Wisdom saving throw 
+Rayla 19
+Rayla wakes up from the psuedo dream state
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Rayla use chromatic orb to attack the commander listeria, the attack does a lot of damage to her
+Finger gun hits her chest hard and she looks furious at Rayla.
+
+Ruben quickly slap Gregory to try and wake up Gregory
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Wis saving throw
+Gregory 1 
+
+Gregory is knocked the fuck out
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Ruben use his double back on Listeria to attack and backed away after his attack.
+
+Pyretrix get bitten by the hell hound but his muscles are so strong that he didn't take the damage
+
+
+The succubus takes the dutchess, melts his body, and became one with the Duchess' body. Becomming posessed.
+Became Duchess Solaran the ascended
+
+Sid (the notary) look at Pyretrix and said "If you sign the contract I could make this an even fight"
+"You give me your eternal soul when you die, with no influences, and you can get your weapons back"
+
+Pyretrix pass up the bargain but then he's attacked by another hell hound.
+Notary said that they could talk about altering the terms later once the issue has died down.
+Pyretrix agreed and signed the document. After he signed the pen changed into his great axe.
+
+Pyretrix hit one of the hell hound with a big attack but the hell hound yelps. 
+You can tell the damage hit the dog hard.
+
+Pyretrix get hit by the hell hounds and take significant damage
+
+Brolasi fighting listeria on the battle lion and Pyretrix fighting the hell hound
+Xucphr use eldrich blast to hit hell hound C and hit into hell hound D
+
+Night Hag reappear, point at xucphr and said "Kara" and Phase shift again
+
+Commander Listeria make three longsword attacks at battle cats
+
+Gregory still sleeping like log
+
+Raya hit Listeria with lightning bolt and finger guns
+Ruben gain temporary armor and hit points
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Ruben 19
+
+Ruben notice that Pyretrix gain his weapon back after talking to the devil notary
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Ruben use Entanbled on the hell hounds near Pyretrix.
+Devil Notary said "OH heavens" and was restrained. One hell hound was restrained
+
+Pyretrix is attacked again by the waves of hell hounds
+
+Solaran levitates and head towards Brolasi, summon a flaming whip, and attack brolasi
+Brolasi dodge the first attack but hit from the second attack.
+
+Hell Hound A walked away from Pyretrix and Pyretrix took an opportunity of attack
+
+
+Gregory gets attacked from Hell Hound A and still smile in ecstacy; showd no reaction
+
+Pyretrix tries to leave from the hounds but became down from the attempt. Pulls a chunk of flesh out of it's shoulder.
+
+Devil notary went to Nova and talk about the deal.
+
+Nova spell made it seem like the notary devil's deals are stupid and ran away
+
+Brolasi spell made Solaran feel queesy, due to the poision damage of their attack
+Then brolasi use celestral reveolation 
+
+Xucphr summon Arcane hand and hits Listeria 
+
+Listeria use her long sword to attack gregory and then gregory is down
+
+Listeria use second wind and gain 20 hit points
+
+Ruben attack Listeria and tries to talk to her to defend the people.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Ruben 
+Persuasion 17
+Wisdom -14
+
+Ruben was able to get to her. She realize she forsaken her duties.
+Listeria points to solaran and said "I don't have to fight with her"
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Hell Hound tear Gregory apart and dies.
+
+Solaran attack Pyretrix and now he's restrained
+
+Pyretrix use fire cone but the hell hounds are immune to the damage.
+Nova heals ruben and attack hell hound A
+
+ Hell Hound C use fire breath and hit ruben nova listeria and xucphr
+
+ Brolasi attack hell hound a, successfully putting it to sleep and healed Pyretrix
+
+Xupher attack solaran and blast him 20 feet away from brolasi and pyretrix.
+
+Listeria attacks Hell Hound C with a fury of attacks and kill the hound
+
+Hell Hound D eat Gregory and we all mourn his death.
+
+Ruben hit hell hound a with his attack and end it's life.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Ruben wisdom saving throw - 6
+
+Ruben is charmed by Solaran. SHe looks like the dutchess that he fell in love with before
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Strength savingg throw -23
+
+Pyretrix broke free from his tanglement
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Pyretrix cut through Solaran and as the attack open Solaran, hands reach through the dutchess
+As the Sucuubus tries to come out, Pyretrix attack him again.
+
+The hell hound escape from the entanglement.
+
+Nova hit akosh with an attack (whispers) and tried to run away
+After attempting to run away, Akosh was ambushed by pyretrix 
+
+Akosh attempts to run away
+
+Xucphr and Nova throw attacks at Akosh. Akosh doesn't look too good.
+Rayla attempt to attack Akosh but her attack fizzles out.
+Rayla use finger guns to hit Akosh. As Akosh tries to run away and get hit by Rayla attack.
+
+Rayla's finger gun goes through the back of his head and he dies.
+
+Sid locked the room before he left and we're trapped.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+End of combat
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Ruben snapped out of charm and act normally.
+Gregory is missing an arm, his face, and a leg.
+His entrails is also missing. Nearly impossible to revive
+
+Xucphr use mending to put him back as much as possible
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Arcana check
+Brolasi 17
+Xucphr 23
+Ruben 11
+
+We know that gregory can be reincarnated
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+The group discuss about what to do about Gregory.
+Listeria couldn't bear the guilt and tries to fall on her sword to dies
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Strength saving throw
+pyretrix 12
+listeria -9
+
+Pyretrix stopped listeria from unaliving themselves and tries to cheer them up.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Persuasion towards listeria
+
+Listeria - 17
+Pyretrix 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Srength saving throw - Xucphr -0 
+Xucphr attempted to stop listeria with Moment to thi8nk but he ended up pushing her into the sword.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Loot
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Listeria
+master key - Nova
++2 Halberg -
++2 Long sword - Nova
++1 plate armor
+Small pouch - 150 gold pieces - Party gold
+Pendant of Bahamut - Nova
+
+Gregory
+Hammer - Ruben
+
+Dutchess
+50 platinum pieces - Xucphr (added)
+100 gold pieces - Rayla 
+pair of amythest earings - Xucphr 
+amythest broche - Rayla
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+The bodies start to decompose and we head to the exit.
+We unlock the door with the master key but there's something blocking the door.
+
+Sid refuses to open the door because of Nova. Sid still scared of Nova
+
+Sid open the door and sees Nova and shouted "You lied to me!"
+Nova hide behind a corner, away from Sid's view.
+
+Sid "That dreatful person you had in the group was terrible!"
+
+Sid talked to Pyretrix about the remediation of their contract.
+Sid asked if there's any other contract that anyone want to sign.
+Pyretrix asked if we can make one for reviving gregory.
+
+
+Sid "SInce several of us are creatures of the night. Why can't you bring him back?"
+
+We said that he's missing body parts and were taken by the hell hound.
+
+
+Pyretrix and Ruben tried to offer my junk and soul for Gregory.
+
+
+Sid explained that depending on where his soul is he can't bring him back to life but can bring his body back to whole.
+
+Sid "if we give him the soul, we don't have to give up our memeber and bring Greg back (with his dick)"
+
+Pyretrix is trying to make a deal with Sid about not using his soul.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Intimidation to Sid to giving back the soul
+Nova - 21
+Sid - 22
+
+Sid is no long scared of Nova
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Sid backs away, lock the door again, and runs away.
+We ran after sid to find him talking to the bone devil
+Bone devil stating that we can not just strong-arm our way for negotiation
+
+
+Xucphr asked if there's anything that we can do to get Pyretrix soul back
+
+Sid said that we can kill his older brother.
+Older brother live in salvarian. Currently shacked up with the amonis family.
+A lot of contract with that family.
+
+We would have to kill him from existance. The sensational seven will have to figure it out
+
+Why does Sid want his brother dead
+Sid stated that when one cease to exist, the next of kin will inheret their contracts.
+
+Sid's brother name is Kip.
+
+Sid and Pyretrix shake hands on the deal: Kill Kip completely and Pyretrix soul is back
+
+Chains bound by Pyretrix and Sid, creating a mark on their arm. Sealing the contract
+
+Bone devil made the contract binding.
+
+
+
+We grabbed our weapons and head back towards camp to where Kara is
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Arcana check
+
+Xucphr -5
+
+Don't know shit
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Kara is leaned up against the caridge and she is cold to the touch, looks pale
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Medicine check
+
+Xucphr - 11
+Rayla -4
+
+
+Kara is dead
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+As we investigate her body, Kara's stomach was cut from hip to hip and she's empty on the inside.
+
+Hollowed out.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+
+Nova - 11
+
+DOes not see a struggle nor a fight
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Arcana check
+Ruben - 25
+
+Ruben sees a single flower that is out of place. It seems off.
+Ruben walk to the flower and sees a slight slimmer.
+Goes to pretty flower, to a rotten flower.
+Then goes back and forth between the two states.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Ruben found out the flower that was put here as a "fuck you. come and get me"
+
+
+Ruben gathered that we'll have to go to the shadow fae and fae wild.
+Rayla goes over the details about how faedate works and how we can travel there. 
+
+Fae wild is chaos, things are opposite of what you think.
+
+Shadow fae is structured and ordered but very dangerous. Things that work does not work there
+
+Xucphr is sad and angry about what happened. Her bodies falls about 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Arcana check
+Ruben 8
+Nova 11
+Xucphr - 16
+Brolasi - 16
+
+We realize that it's not a real person. Something made up. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Xucphr is not 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Brolasi -12
+
+Similacrum are only made by the people they resemble
+Defensive technique to hide from danger.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+Pyretrix is the uncle to my unborn child.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+LEVEL UP!
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+End of Session 10
+%%%%%%%%%%%%%%%%%%%%%%%%%
