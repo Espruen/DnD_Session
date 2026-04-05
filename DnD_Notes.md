@@ -2327,3 +2327,519 @@ LEVEL UP!
 %%%%%%%%%%%%%%%%%%%%%%%%%
 End of Session 10
 %%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2026-04-04 Session 11
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Last adventure: We found Kara's body, turned out to be paper mache. Turned in for the night and decided to find Pyretrix soul. 
+IN order to save Kara, we need to be in top shape so we'll need Pyretrix soul
+
+Made our way to Valvarium to assassinate the demon kimp in an attempt to retrieve the soul from Sid.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pyretrix- d20 check - 1
+
+Pyretrix started moving and going towards a direction.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Survival check
+Brolasi 15
+Pyretrix 18
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Pyretrix realized after 2 days of travel that he's going in the opposite direction of where we need to go
+
+ Pyretrix told everyone to stop moving. Pyretrix brought Reuben over and explained that the map looks upside down. Reuben said that it doesn't look upside down. 
+ Reuben upset that we've been walking for 2 straight days. Pyretrix trying to put the blame on Reuben but they're getting louder.
+ 
+ We heard Pyretrix said that he's got the group lost and wasted 2 days.
+ Pyretrix said that we can just turn back and head in the right direction.
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ Pyretrix d20 check - 11
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pyretrix put the group in the right direction but we lost 2 days worth of time
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+ANimal handling 
+Xucphr 22
+pyretrix 1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+There was a lot of stop and go. Everytime Pyretrix take the lead the axebeaks keep trying to attach each other. Some of them hit and some of them miss
+A few times the axebeaks tried to kill each other. Brolaski have blocked some of the Axebeak's attack. They do not like Pyretrix.
+
+We pass through the forrest and found a place to stop. We stopped at the tiny town - 5 buildings; two houses, a general store, a potion shop, and something like a tavern.
+Sign says clean food and drink.
+
+Pyretrix zucphr, reuben, Brolaski - We struggle to go thorugh the tavern door since it's small
+A makeshift countertop behind is a man that look like a gnome. He spoke in a language that sound like a heavy russhian accent and very fast.
+
+The man look at us with a blank expression. You can tell that the man havent had many people pass throught.
+
+Xucphr start the ritual for comprehend languages, Started to kneel down and talk in tongues to perform the ritual.
+ Brolaski goes to the bar to try and get a drink. The man comes back out with a mug with brown liquid and set it in front of brolaski.
+The bartender tried to talk to Brolaski - Brolaski just smile and started drinking.
+The drink doens't taste like beer. It taste like something he just made on the spot; it is not good. It's not strong enough to get someone drunk.
+
+Brolaski give a half-hearted smile, with a thumbs up, and sat donw
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Deceiption check 19 brolaski
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+The bartender just smiles and look happy 
+Xucphr still chanting with his eyes in the back of his head. 
+Pyretrix just walking around the area looking around. Pyretrix just looking at how the people reaction to them and see if anyone want to attack us.
+There are a few children that look less depressed. There are no homeless situation here; everyone look like they have a house and live pretty well.
+General store look like it's doing well and the potion shop look a bit run down
+
+Potion shop ran by a minitaur and general shop appears to be ran by a gif (hippo people). Potion shop looks like it's bigger than the other stores. Minitaur look like the fuzzy bulls. He leans over the counter just relaxing.
+
+Sid pop right next to Pyretrix when he appeared and Pyretrix jumped a bit.
+Pyretrix talk to Sid about trading someone in town to trade for his soul.
+Sid said that he doesn't want to trade soul for a soul. Sid said the contract is binding and can't be altered.
+Sid said that he already has Pyretrix's soul so there's no need for a new soul.
+sid explained that he can't kill his brother but pyretrix is very strong and should be able to. Sid's eye is twitch while explaining
+Pyretrix said is there a way we can be moved closer to Sid's brother.
+
+Everyone else in the group see that Pyretrix talking to himself. Only one person heard him in the potion shop and the minitaur.
+Sid started to cry and rant about his brother tormenting him. Sid's brother has tormented him for 10k years.
+
+Sid said there has to be a subclause to add that if he doesn't kill the brother then he can take his soul.
+Sid and Pyretrix agreed to the handshake - Pyretrix can trade someone else's soul for his but MUST kill his brother. Sid want Pyretrix to kill his brother in front of him.
+Promised that there is extra rewards if killed in front of Sid. Sid said to find him a new soul.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+pyretrix - 15
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Rayla and reuben staring at Pyretrix. Minitaur staring at Pyretrix as well.
+Minitaur stated that he had a conversation by himself and was amazed by the talk.
+Minitaur name is Sebastian Steer. Minitaur offered Reuben some gnome weed and smoking in the back.
+
+Rayla attempt to steal every potion in the shop - there's 15 potions.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Rayla - 15 potions
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Pyretrix suggested to take a few so that it doesn't look like we stole but Rayla said no.
+
+Sebastian brought out a gravity bong - looks like a work of art and Reuben is amazed. A team fell down Reuben's eyes
+Sebastian said he have enhanced weed - Valvarian type gnome weed.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+COnstitution saving throws 
+Reuben - 14 
+20 
+18
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+One of the best weed that Reuben has ever had in his life. Body tingle, opened mind, and super relaxed. Reuben is in Nirvana.
+Reuben just see an afterimage of Sebastian and believe he is talking to the gods.
+
+rayla has taken all of the potions and Pyretrix just looking around to see how he can fix this. 
+The weed cloud from Reuben and Sebastian is coming into the shop. Pyretrix and Rayla trying to leave the shop
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Const saving throw
+Pyretrix - 21
+Rayla 24
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+They were able to leave withougt being affected. An old man walking by and said "OH he's at it again with the weed?"
+"he really need some help" and then walked away.
+
+Xucphr's ritual finally finished and seem normal. Xucphr talk to the bartender about the town. 
+It's a very small town, not welcoming and wish to die. The paladian that walked in and drink my drink made me happy.
+The man look towards Brolaski direction and had a big smile. He explain that they treat him like shit and the drinks that he served.
+FOr a time he was a worshipper of the not good ones - one down below. He was a cultist of the nine hells.
+Did follow a group that tried to resurrect a creature but didn't have a chance. 
+
+He doesn't keep in touch in any of them and explained there's plenty of spots in valvarian. There's a couple in noctheria. 
+His name is Peter.
+Xucphr went out to find Pyretrix and explained the situation
+Pyretrix ran over with Xucphr back to the tavern to talk to Peter.
+Peter looks over at Pyretrix and asked if he want a drink.
+
+Peter comes out with the brown liquid for Pyretrix and started to drink it. 
+The drink is still aweful. Imagine what diry toilet water taste like.
+Pyretrix said he never had a drink that was chewy in his entire life.
+Peter explained that you can have a meal and a drink at the same time.
+Pyretrix said Sid would like this and he's a demon. Peter asked if Pyretrix is threaterning him.
+peter staring like "WTF" to Xucphr as Pyretrix is explaining; Pyretrix explained that he can hook him up with Sid
+Pater said "What part of the nine hells that sid inhabited"
+Pyretrix said that he doesn't know but Peter said to give him a number; he's just curious.
+
+Pyretrix said that the worser hell may be a good thing for Peter. Sid is from Iron City of Dis
+Peter said he only bin there once and it was lovely.
+Xucphr said to see if they can shake on the deal. 
+
+Pyretrix and Peter shake hands, chains wrap around Peter and Peter falls downwoard into a pit.
+Pyretrix felt heavier after the handshakes. Everyone saw peter fall into a pit and Petter screamed.
+
+Pyretrix called Sid and appears again. Sid said that Peter soul is taken and Pyretrix has his soul back.
+Peter soul went straight to hell because of the deal Pyretrix made; "Going/visiting hell in exchange to Pyretrix soul"
+
+Sid appears to everyone in the group. Pyretrix said hell gain another person who belong there.
+Sid said that he only know who his brother is contracted to and the city. Yotosh namonish
+Sid brother - Kip.
+
+Sid offer Pyretrix a quick feel but Pyretrix acting strange. Rayla cop a feel - it was firm 
+Pyretrix said "Not another word" and said Reuben by the potion shop smoking.
+
+The potion shop has a big weed cloud around it. Since vampires don't need to breath, Rayla said she can go in.
+
+Rayla walk in but can't see anything in the smoke. Rayla crawld around trying to look for Reuben
+Rayla made her way towards the back and found Reuben and Sebastian floating and glowing.
+Rayla attempt to talk to Reuben but she hears nothing. Reuben is having a conversation with all of the gods with Sebastian about the meaning of life
+She tap Reuben and Reuben fall down fro mthe chair and his soul returned to his body and hit hard.
+Ruben is broken out of the high. Rayla told him it's time to go.
+
+Sebastian gave Ruben a good amound of enhanced gnome weed and put it in Ruben's hand.
+Like the scene in predator with arnold and the arm flex
+Brolaski asked Ruben to share the enhanced gnome weed. Ruben said to share it once the time is right.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Ruben - one brick of enhanced gnome weed
+usage- 20
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Add two potion to everyone from rayla
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+We are out of town and walking towards valvarian
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pyretrix - d20 check - 22
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+We're making good progress
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Animal handling 
+Brtolaski - 12 
+Xucphr - 19
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+There was a situation where the axebeaks attack eachother again but nothing came of it
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Percetion check
+Xucphr 19 - Brolaski 18
+pyretrix 6
+rayla 23\
+Nova 20
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+As we traveling we see a campfire. Appear as if it was on the path that we're on from a distance.
+As we approach, we found a few tents with some women. The women have the same color tones, probably a mercenary group.
+We're about a week out from the city. It is dusk.
+
+We do see a flag with a crown on it. We head towards them and brolaski and rayla introduced themselves. There's a centaur female wit ha war hammer. Dwarven female with a sattle
+Some brawlic female.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+History check
+Pyretrix 9
+Xucphr 18
+Rayla 11
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Xucphr caught on that THe buffest person is a changling. The other one is a shifter.
+
+Brolaski approach Valna first. Introduced the team and see if they can talk about the lay of the land.
+
+Introduced themselves as vala. Vala said it's been a while since they had a civil conversation. She asked why we're heading to Valvaeria
+
+Brolaski explained that we're on a journey for their friend. Vala reach into their bag and brought out a strip of leather with some writing.
+"If you need anything. You can always hire The Queens"
+We're a mercenary group and finishing a security job for a rich person.
+She explained that Ilkari is something else during the last job and Ilkari was insulted.
+
+They walk over to the fire and brought out some rabbits and whatever else they have. Brolaski brought out some rations to share.
+Ilkari walk over towards Pyretrix and offer to arm wrestler to see how strong he is.
+
+Pyretrix and Ilkari sat at the table. She has 3 inches of height on Pyretrix and start to grab his hand.
+Pyretrix hand was grabbed and veins popping from her arm.
+
+Pyretrix see her going into a range and was conflicted because it was just arm wrestling. Pyretrix start to rage back.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pyretrix -d20 check - 22
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Pyretrix and ilkari are even with the arm wrestling. "Oh this one got some meat"
+
+Rayla xucphr and reuben place bet on who would win. SOme of the other members of The Queen place bets as well.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pyretrix -d20 check -18
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Ilkari slam Pyretrix arm into the table and Pyretrix arm was sore
+
+Ilkari said "best 2 out of 3" 
+and Pyretrix agreed.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pyretrix -d20 check - 11
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Pyretrix and Ilkari were even again.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pyretrix -d20 check - 18
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Ilkari slam Pyretrix hand down again and caid "it's alright little one"
+She walks away and and started to chant
+
+Everyone started to drink and enjoy.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Rayla - 10 gold
+Xucphr - 10 gold
+Ruben - loss 10 gold - Added
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Reuben just hanging around and having a good time. Trying to chill and relax
+Pyretrix leaning up against a tree and wathcing everyone having fun.
+WHile Pyretrix chilling, Ilkari give Pyretrix a mug of straight whisky. 
+Ilkari said "Drink like queens today!" and drains the mug. Ilkari punch Pyretrix and said "YUEAH"
+"I havent had a hard time like that in a long time"
+Ilkari brought out a giant mug of whisky and the two kept drinking.
+
+Brolaski hanging by the fire and smoking some gnome weed
+Rayla drinking some vampire wine and sitting at the fire.
+
+Xucphr is just partying with the ladies and enjoying himself among the ladies.
+Xucphr get a hint of jealously from the countress.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Brolaski perception check 20
+Rayla 19
+Xucphr 13
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+These women are very dangerous. Outside of the group there's no danger. There is danger from the women.
+
+Rayla and ilkari take first watch.
+
+
+Ilkari pulls a big thing of whisky and sand it was fun. Rayla pulled out a drink and they click glasses together.
+
+Ilkari admitted she took at least 10 seconds to remove the guy  head from his shoulder, bringing the spine out too
+
+Rayla reach out and squeeze her muscles and said it was solid.
+Ilkari said she can change all of her body parts.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Persuasion check
+Rayla 24
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Ilkari said that it's almost time to switch out and it's cold.
+Rayla and Ilkari went back to the tent and it fade to black.
+
+
+Reuben turn to watch and watches with one of the other girls.
+Reuben offer some weed to the dwarf mercenary and they talk.
+
+THe dwarf mention that everyone in her squad is strong but Reuben reassured that she's just as strong as them too.
+Both reassured themselves in their strength and casting spells.
+She didn't want to reveal her name to Reuben because it was embrassing.
+Her name is pigsly and her hog name is bethany
+
+Pigsly said it's time to lay down for the shift.
+
+
+Reuben take a level of exhaustion from watching Xucphr. Rayla and Ilkari kept going for the entire night.
+
+
+Brolaski and Valna take the next watch. Valnba said the ladies needed some entertainment and joy.
+The Queens are going back to Valverian to make another coin for them.
+
+Valna said that there's a lot of devils in Valvaerian for the journey ahead. Talk about making a deal later in the morning.
+
+Daytime (Around 7am ):
+Rayla and Ilkari stopped around 4am.
+
+Rayla said she gave Ilkari a run for her money but Rayla came out walking funny.
+
+Ilkari is also walking funny as well. Ilkari said gods yes when Rayla said she knows where to find her when it's cold.
+Brolaski said that as long as we pay them that we can call on them for help. Rayla walk over to Ilkari and talk about hiring The Queens for their journey.
+
+Valna approach them and know that they had a great night but we're talking finances, which requires her to be involved.
+Cost about 2k gold per person per day from The Queen.
+Ilkari said she'll take any kind of payment from us but Valna said no.
+Valna said the card (leather) have their location in valvernia if needed.
+The Queens start to pack their stuff and leave. Ilkari gave rayla and kiss and leaves
+
+The queens decided to go off the path for some hunting as we continued.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pyretrix - d20 check - 7
+15
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Pyretrix turn what was a 1week trip to a 2 week trip now
+We ran into a few enemies but we were able to kick them out
+
+We made it to valvarian
+
+It is a stupidly large city state, wall build all around
+Town is almost a pyramid like shape. At the top there's a tower that's hugh
+WHite marble buildings. BIg booming business.
+Blackpowered and govenrment business booming.
+
+We made it to the front gate and see the guards.
+Guards have sword, shields and double barrel shotgun.
+Other guards have maces and some other small weapons.
+
+We see guards at the top with rifles.
+Guards asked "Business or pleasure"
+
+Guard asked about the critters (axebeaks and Ziggy). Guard said we're responsibled for our own creatures and held responsbile
+It is 5 gold peices per perso nand 10 for each animals.
+
+The sensational seven pay the toll and the guards open the gates up. "Enjoy valvarian"
+
+We head through and there's paved roads, which is not common. There's sidewalks and a small amount of steam machines.
+
+Rayla and Xucphr came to THe Dragon's Hoarde ( a jewerly store)
+
+We go in and we see and halfling at the register and a few people who are working wit hcustomersw.
+Xucphr explained that we're trying to sell this Ruby for some gold.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check 
+Xucphr 7
+Rayla 14
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+The person at the counter seem like they're a person. Xucphr can tell it's a professional establishment.
+Xucphr let them see the ruby and let the person view the Ruby.
+
+Xucphr use Moment to think To take the ruby back and offer to sell another Ruby to the shopkeeper
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Persuasion
+Xucphr 12 & 20
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Shop keeper said he need to make it up for the sale but Xcuphr dien't budge. Xucphr sold the ruby for 4500
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Persuasion
+Xucphr 26
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+xucphr sold the Opal for 800. Afterwards Rayla and Xucphr continue shopping.
+
+
+Reuben walking around and a lead ball went straight through the door. A red dragonborne pop their head out and said they'e working on Reuben's weapon.
+The Dragonborne tell Reuben to come in. The Dragonbone name is Namash Drephac. He dresses very well.
+He asked about Reuben's adventures and kept tuning some weapon. His face is completely blacken from the gunpowder
+Ruben realize that the top part of his pinky is gone. Mamash said to give him 3 days to create this weapon. He runs into the back and start tihnkering.
+He asked ruben to get out of he's not buying anything.
+
+
+Brolaski and Pyretrix head towards a tavern called "The One-eyed beholder"
+
+As they walk inside there is a beholder behind the bar with no eyestocks.
+Bartender said "Welcome to my establishment"
+Pyretrix said they're looking for Yotahs Memonas Nemmonis
+Bartender said memonas family is very famous and they may be in danger
+
+Bartender said you can just go to the authorities for that kind of stuff and wanted to know if Pyretrix and Brolaski will get a drink.
+Bartender fill the mug with drinks as he makes noises.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Investigation
+Brolaski 18
+Pyretrix 0
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Brolaski learned that the Nemmonis family are in charge of the merchantile guilds and the patriarch of the family in charge of the city.
+They send thei8r offspring to thw wizard school and currently yotash is attending the school.
+
+The drink is pretty good (somewhat) Pyretrix trop over a nail from one of the board and spilled the drink to a patron's face.
+The patron is a very large Goliath and is about a foot taller than Pyretrix.
+
+Pyretrix apologized to the patron
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Persuasion check
+Pyretrix 10 & 6
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+The goliath look at Pyretrix and said "If you buy me two drink then I'll think about not smashing your head"
+
+Pyretrix bought the two drinks for the patron. Pyretrix see one of the bouncers hold the patron and slam him down to the ground
+The bounder is dragging him by his front teeth and take him out of the bar
+Bouncer look like a very big snapping turtle. Bouncer said for Pyretrix to enjoy his day and sorry for the trouble.
+Bouncer explained that they have a 0 tolerance for violence
+
+Brolaski tell Pyretrix what they found from investigation. Brolaski said to be careful with bringing the queens in case we become outbid and Pyretrix agreed.
+Brolaski and Pyretrix enjoy another ground of drinks before they try to join the party.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Performance
+Brolaski 16
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Brolaski performed at the bar and was given two silver and 10 copper pieces.
+
+Reuben  goes to the bar and meet with Pyretrix and Brolaski
+
+Rayla and Xucphr Go to "The Top Hat" and found an older gentlemen, an older elf.
+Owner said we can talk to the 5 similacrum ( a copy of a person ).
+Xucphr ask about spells on teleportation but one of the similacrum said they don't have any spells like that.
+Rayla asked for sending stone but it cost 1200 gold pieces.
+
+Xucphr asked if they have the amulet of health. They have in stock but it cost about 2k gold pieces
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Xucphr - Amulet of health and Frefil's Jolly Oozebean Sugarbombs
+Rayla - sending stones
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+We made our way back to the bar to meet the rest of the party.
+Xucphr ask for what's on the tap while Rayla went towards the school for the library.
+Bartender gave our drinks and we talked about the information that we received. Rayla also looks for parties
+
+Brolaski talk about Yotash Nemmonis and how they have a lot of money. Reuben vaughly know Yotash since he went to the same school.
+Reuben said we can just lure Yotash out and ambush them / ask questions.
+
+Rayla made her way to the party district and made her way through the clubs.
+A lot of people trying to get her to go into their club.
+
+Rayla goes into "the Bejeweled Tits" with ziggy and see a lot of people dancing and enjoying the music.
+Rayla head to the dance floor, heavy bass music, and everyone dancing. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Rayla 23
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+While rayla loooking around and dancing, she looks up and see only one person on stage performing. ALl of the mu sic is coming from his violin.
+The vocal comes from him.It is a blue dragonborne dressed in black and gold. THis is Kavash Nemmonis
+
+Rayla gain a point of inspiration
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+End of Session 11
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2026-04-18 Session 12
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
