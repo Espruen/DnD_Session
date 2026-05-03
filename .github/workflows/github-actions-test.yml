@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: DND Github Action
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
@@ -14,5 +14,36 @@ jobs:
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - name: List files in the repository
         run: |
-          ls ${{ github.workspace }}
+          tree ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+
+  Test-LaTeX-Compile:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Check out repository
+          uses: actions/checkout@v6
+          
+        - name: Download and Unzip DnD Template
+          run: | 
+            curl -OL https://github.com/rpgtex/DND-5e-LaTeX-Template/archive/master.zip
+            unzip master.zip
+        
+        - name: Generate PDF document
+          uses: xu-cheng/latex-action@4.1.0
+          with: 
+            root_file: test.tex
+          env:
+            TEXINPUTS: ".:./DND-5e-LaTeX-Template-stable//:"
+            
+        - name: Move PDF Document
+          uses: actions/upload-artifact@v7
+          with:
+            name: PDF
+            path: test.pdf
+
+            
+            
+        
+  
+          
+
