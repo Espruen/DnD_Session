@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: DND Github Action
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
@@ -23,7 +23,7 @@ jobs:
         - name: Check out repository
           uses: actions/checkout@v6
           
-        - name: Download Custom template
+        - name: Download and Unzip DnD Template
           run: | 
             curl -OL https://github.com/rpgtex/DND-5e-LaTeX-Template/archive/master.zip
             unzip master.zip
@@ -34,4 +34,5 @@ jobs:
             root_file: test.tex
           env:
             TEXINPUTS: ".:./DND-5e-LaTeX-Template-stable//:"
+          
 
