@@ -30,7 +30,7 @@ jobs:
         - name: Generate PDF document
           uses: xu-cheng/latex-action@4.1.0
           with: 
-            root_file: sessions/S10/Session10.tex
+            root_file: test.tex
           env:
             TEXINPUTS: ".:./DND-5e-LaTeX-Template-stable//:"
 
