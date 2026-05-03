@@ -2841,5 +2841,497 @@ End of Session 11
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-2026-04-18 Session 12
+2026-05-02 Session 12
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+At the club, Rayla went to the bar and saw a green colored tifling and told Rayla there's no food but ther's drinks
+Rayla requested for a strong drink. 
+The bartender gave Rayla and Celesteral Sunrise. Rayla takes a sip and taste like a tropical, sweet drink.
+Rayla thanks the bartender and asked about the dragonborne on the stage.
+
+Bartender said he is part of the Nemmonis family which is powerful. He's at the high end (top performer) of the college.
+Also stated he is part of the high class society but he is usually with the low lives.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Rayla 16
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Rayla notice the small imp behind Kavash flying side to side. Looks like she's enjoying herself as the music continues. 
+
+Club is big with large platform that float above the floor. Elementals within lamp that is partying and providing light
+Appears to be a laser show from goblins firing prestegitation, smoke around the club, and loud music.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Performance check
+Rayla 26
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Rayla and Ziggy dancing in sync and dancing hard that it caught everyone's attention in the club. At one point, A wizard cast light directly on them
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Rayla 17
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Rayla can see the familiar flying towards Kavash, wisper into his hear, and take a glance at Rayla. He started to pick up the speed with the music
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Performance check
+Rayla 25
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Rayla is keeping pace with him as he tore up the violin. Ziggy started dhancing hard and break dancing.
+Kavash and Rayla were in sync as they got faster. When the music ended the crowd exploded in excitement. Kavash was pleased
+
+Rayla gained heroic inspiration.
+
+It's about 4am in the morning and everyone started to wear down as the drugs within everyone system dies down.
+The Bartender came up and said "Kavash came to me and said that he want to talk to you in his private booth."
+"He was very impressed with theee dance moves from her and Ziggy"
+
+Rayla walked up to the booth and the imp welcomed Rayla. Kavash welcomed Rayla into the booth.
+Kavash and the im (Melphina) passed some drinks. Melphina did not drink.
+Kavash complemented her on their dance moved and was very impressed. Rayla gave him credit for providing the music and moves.
+
+Kavash notice that Rayla is new to town and came due to her teammate getting repairs on their weapon.
+Kavash offered his help for the job or the repairs. Rayla said that they're fine.
+
+Rayla asked about his musical talents. Kavash went on an entire speech on him creating, practice, and play the music.
+Kavash becomes more and more excited as he explained his details and analysis about the music.
+
+Melphina explained how he's talented on all musical instruments. Majority of the music he plays/write is from him.
+
+Kavash explained how he made a deal with another group that was to have a tour within the 9 realms of hells.
+He was able to get 99% of their profits due to the deal. Best place in hell is city of dis
+Rayla said whenever he goes shopping to bring her. Kavash drew a circle with arcane rules on a piece of paper.
+Kavash explained that he can always get in contact with him. 
+
+Rayla and Kavash kept going back anf fowth with drinks
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Const save
+Rayla 13
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Rayla blackout from all the drinks
+
+--- Back to the rest of the group ---
+Xucphr, Pyretrix, Brolasi, Nova are at the tavern chilling. Everyone turn in for the night while Xucphr keep watch outside the tavern
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Xucphr 5
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Xucphr just looking outside of the tavern. Seems peaceful, noimmediate danger
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Check - d4
+Rayla 3
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Rayla wakes up 3 hours later within a different room. The room is bouji and she's sleeping in a very fancy bed. 
+Pillow almost as big as the mattress but it's so soft. Ziggy was knocked out, tongue on the side, and looked blissed.
+Rayla sees Kavash sleepin in a love seat on the side. 
+Melphina came into the room, welcomed her, and came back to give her some drinks and food
+
+At this point, Rayla was sick of the smell of alcohol but Melphina was nice to her.
+Rayla took a sip of the wine and the headache started to receed. 
+Melphina asked how she felt. Rayla said her head hurt and probably acted a fool.
+
+Melphina said Rayla was having fun and was drunk out her ass.
+Rayla apparently purchased an expensive, 500 gp on the dress. 
+The dress had a lot of pockets and some properties within the weaves. 
+
+Kavash did offer to buy whatever she wanted but Rayla said no.
+Rayla had fun with Kavash and bumped him into the floor. Melphina doesn't know if he is dead or alive
+Mephina said whenever he wakes up she'll let him know that he had a great time. 
+Melphina said Rayla explained that she was a bloodsucker.
+
+Anti magic filed that sprout from his main eye. Bartender only has one drink but it's a good drink.
+
+Melphina said that she doesn't know where she is. Melphina said she's at the top of the archive tower
+Kavash has a personal teleport that she can use to get back. 
+Melphina said she has an umbrella that she can use since it's daytime.
+
+Melphina and Rayla were chatting and had a good time. Melphina said it's a one-time usage with the paper kavash gave her
+Rayla thanked Melphina as she came back to the tavern.
+
+
+
+Rayla teleported near the tavern. The Sensational seven saw rayla with a new dress, umbrella, and smell of Alcohol.
+Rayla explained that she met a really cool dragonborne at the club.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+History check
+Ruben 15
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Ruben know that a certain somebody would come home at a certain time. Ruben think he met someone named Kavash and Melphina.
+Ruben open his bag of holding and shout into it. Ruben asked what did she do with him.
+Rayla said she was dancing, drinking and cracked someone's skull. Rayla said his family is powerful and own majority of the college.
+
+Rayla said she was invited back to his place. Pyretrix said we can leverage this and find out more about the younger brother.
+Rayla didn't want to piss off her new friends with his idea. Rayla said that Kavash would help us get out of the contract
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+History check
+Ruben 19
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Ruben knows that Kavash would not help with getting Sid out of a contract.
+Pyretrix said that Rayla can get some information out of Kavash to help the group.
+Ruben suggested he can talk to Yotash at the college instead.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Const check
+Pyretrix 12
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pyretrix start to get a migraine as Rayla defend her new found friends.
+
+Ruben knows that only one teacher would probably cause the most damage trying to attack uninvited students.
+Rayla dress is blue and silver.
+
+Ruben said there is a tour at the college but it's only for wizards. 
+(Treat the school like an Ivy league)
+Ruben and Brolasi can accompany him. 
+Rayla will try to go back to the scene where she crack someone's skull.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Investigation check -D 
+Rayla 4
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Rayla is lost and have no idea where she is and just roaming around.
+Xucphr summon Ta'lisk and pose him as Ruben's familiar. Ta'list is a flying imp with a handlebar mustache, a bowtie and small top hat tilted to the side.
+Xucphr use Ta'lisk to communicate for him while Xucphr is at the Tavern.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Investigationcheck
+Ruben 17
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Ruben and Brolasi walk around for 3-4 hours to find raylaand found Rayla window shopping.
+Ruben said that they need the sending stone for the mssion.
+Rayla said she left it on the table and Ruben was upset as he walked back to the Tavern.
+
+Ruben and brolasi went towards the school. The school gate looks like gold leaves attached to brass vines all over the gate.
+The gate opens and they walked int othe place. Ruben reminisce about the school and ejoyed it.
+
+Class is in sessiosn so not too many people walking around. Ruben said for Brolasi to keep a low profile and blend with the crowd
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Stealth check -D 
+Ruben 10
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Stealth check - D
+Brolasi - 0
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Some kind of divine sign of the universe, Ruben hear someone said "Ruben is that you?"
+The dean of the school, a small gnomish land, with a top hat, approach Ruben. The man is 3ft tall.
+Dean Alistair Vornhal said Ruben was suppose to be out of the school for some class.
+
+Ruben explained that he has grown and apologize for not checking in and now checking in.
+The deak open his top hat to show a cup of tea as he was explaining.
+
+RUben explained that he has a note taker to keep notes for him (known to be terrible).
+Alistair talked to Brolasi to get some information about them.
+Brolasi explained that this is charity from the church to help ruben
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Brolasi 23
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Alistair said that he heard about the church and their effort. He offered a donation to Brolasi.
+Monks for punks
+Alistair donated 100 plat to Brolasi and Brolasi was thankful.
+Alistair said Ruben has some classes he'll need to make up.
+Allistair said Professor Vivarian he'll need to go and may need assistance to go
+
+Ruben explained that he is working on his spells and has improved.
+Ruben showed that he can perform Protection from Good or Evil on Brolasi.
+Ruben displayed he was able to learn more within the outside world.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Deception check
+Ruben  6
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Dean Allistair said that Ruben is very jumpy right now and pass the beverievment process.
+Ta'lisk complimented Allistair on his hat and wanted to know more details on how he made his hat.
+Ta'lisk went ento an in-deph conversation about top hats. He requested a private lession on making hte dimensional hat.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+PErsuasion check
+Xucphr 24
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Dean Allistair has noted that Ruben has summon his own fami9liar with such flattery and at this level.
+Dean Allistair leaves with Ta'lisk to learn how to create extra, dimensional astral plane top hats. Distracting him to talk to the teacher.
+
+Ruben know where the freshmen class is but not the exact class where the Yotash is. Ruben said he know which teach may help him and Brolasi
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Investigation check
+Ruben  18
+Brolasi 20
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Ruben and brolasi made it to Professor Lirienne Solvaine classroom.
+She talked to Ruben and smiled at him while catching him up on her classes
+Ruben asked if she know where Yotash Nemonnis, which Prof. Solvaine said does not have him.
+
+She directed him to the conjuration class, which is held by Halveth pell halveth Pell
+Ruben thanked her as she kept staring at him without blinking.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+perception check
+Ruben  20
+Brolasi 25
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Ruben know where the conjuration room is but as the yapproach it. There's a loud explosion, a lot ofcussing, and a small child escape the room.
+A Furblog comes out to yell at the child stating they know it was the wrong spell. He ruben knew it was Yotash Nemmonis
+
+Professor Pell is a big, buffy guy but he is not meant for running. He is running out of breath as he chase Yotash full sprint. 
+Ruben and Brolasi attempt 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Athletic check
+Ruben  20
+Brolasi 16
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Ruben and Brolasi were able to chase him at a good pace as they're running through the hall and into the library.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Strength check
+Ruben  19
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+DFex check
+Ruben  15
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Ruben was able to catch him with his hand but Ruben felt something went pass his head. Yotash told something to stand down and that he admit being captured.
+Ruben said who are you talking to and Yotash said "Oh you can't seee him can you?" 
+Ruben explained that he knows Yotash and that he babysat him years ago.
+Yotash told a small demon to appear before them named Kip
+Yotash explained to Kip that he is not a threat and Kip threatered to kill Ruben if he tried it again.
+
+Ruben said he just wanted to catch up on Yotash. Yotash said he was just "off" with his spell and knew Ruben was ordered to take him to the Dean office.
+Kip said that Yotash isn't going anywhere with Ruben and wouldn't want to cause issues with his family.
+
+Kip will "escort" Yotash to the Dean's office instead of Ruben. Yotash said that Kip wouldn't lied about this.
+Brolasi said that they could meet with the Dean and catch up afterwards
+Ruben said they can meet up at the courtyard by the potion class.
+Kip stared at Yotash until the door closed.
+
+Ruben said that killing Kip would cause issues with Yotash and his family.
+Ruben sent a message to Pyretrix about metting with Yotash, meeting up with him later. 
+Ruben mention that he is with Kip and they're always together.
+
+Pyretrix sent a message: how big is he?
+Ruben: Not that big
+Pyrerix: How difficult to kill?
+Ruben: Kip very protective of Yotash. Almost killed me.
+Pyretrix: Do you know what's in it for him
+Ruben: HNot yet
+Pyretrix: FInd that out. This seems weird.
+
+Ruben said they'll stop by the invocation wizard so that the Dean doesn't kill them
+THe profesor is in a class and they treid to sneak away
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Stealth check
+Ruben  21
+Brolasi 11
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+They were able to walk away without being detected by the professor.
+THey notice a militant, aggressive wizard: Professor Kavel Daravaryn.
+
+Prosthetic leg and arm. Carrying a staff. Originally a War Mage and retired from the battlefied to each at the school.
+
+Rubne went through and saw some of the professors that he was familar with:
+Professor Corren Duskmantle -changling
+Professor Orren Vale -earth ornoski
+Professor Elira Redcinct
+Professor Malrec Throne - elf necromancer
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+D20 with professicency
+Ruben  20
+Brolasi 20
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+They do not run into you-know-who
+
+They went into the cafe and wizards conjurating some good ass food
+Ruben asked for a foot long sandwich as a wizard summon a foot long, stacked sandwich ready to be eaten.
+Brolasi asked for a turkey leg and a giant turkey leg was exited from a magic circle.
+Brolasi made the meat fall off the bone and stored the bone as a weapon
+
+Both Brolasi and Ruben took inspiration from the food.
+
+Going back to the tavern:
+Pyretrix and Xucphr saw Rayla returning to the tavern.
+Xucphr checking with the familar and see that Ta'lisk is talking to the Dean about top hats.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Luck check
+Xucphr - 16
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Xucphr check in with Xucphr and see a small bronze dragonborne and see a small demon.
+The dean look at Ta'lisk and said he has to tend to the small children.
+The dean fussed at the Yotash and gave him detention until further notice
+
+Yotash said it was an accident but the Dean said he has to go to dimension
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perceptioncheck
+Ruben  13
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Xucpher notice that Kip doesn't take his eyes off of Ta'lisk the entire time.
+
+Time - Close to 4pm 
+
+Pyretrix said we'll have to gain more information about the family before we can start a plan.
+Rayla suggest that we can meet the older brother but Pyretrix and Xucphr refuse to meet him.
+
+
+Pyretrix wanted Rayla to use her friendship with Kavash to get some information 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+History -D
+Rayla 11
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Memory came back to Rayla about that night with him. He appears to be charming but he's actually a dick.
+He lied about giving street kids some money if they fight each other.
+
+Rayla shared this memory with Xucphr and Pyretrix.Rayla said she may recall if she drink again.
+
+The beholder brought drinks to them and told them to enjoy
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Const save 
+Rayla - 25
+Xucphr - 10
+Pryetrix -8
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pyretrix and Xucphr black out while Rayla remember everything
+
+Rayla had a terrible time. Melphina had a good time caus she was a demon
+There was conversation where Women should go down on men and not the othe rway around
+Kavash said that he was the better than anyone and can be proven numerically 
+Kavbash hit the old man in the head with a violin and the man died. He was just a homeless man and they did not care.
+
+Kavash got a prostitite, did the deed, and left Rayla to pay it; He left using invisibility
+The dress Rayla had was stolen from a shop that they gave to Rayla; after they set her on fire.
+Kavash took the dress that rayla had from Valvarium; the nice ballroom dress and put it on fire
+
+
+Kavash broke a window from a store, took the dress, and gave it to Rayla
+
+Hours passed and then Xucphr and Pyretix passed out. Rayla did the water sleep trick on Xucphr and shaved some of Ziggy's hair and put it on Pyretrix as a moustache.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+const save
+Xucphr 16
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Xucphr did not piss himself.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Pyretrix 19
+Xucphr 21
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Pyretrix immediately notice he has a moustach on his face when he woke up. Pyretrix was impression. 
+Xucphr notice the moustache and the water. Xucphr know what the water was for.
+
+Xucphr rayla and pyretrix has disadvantage for any dexterity saving throws
+
+Back at the school:
+
+Ruben and Brolasi 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Ruben 15
+Brolasi 16
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+They see Yotash and Kip fussing back and forth within the courtyard.
+Kip wanted Yotash to go to detention because it's getting late.
+
+Yotash greeted ruben and brolasi and he said Kip is his benefactor.
+Yotash explained that it's a family thing for him to have Kip; A family-friend where all family members have a demon.
+Kip is trying not to laugh at Ruben about him being a close friend.
+
+
+Yotash said that he only trust his mother with anything.
+Yotash made Professor Kavel Dravaryn mad and burned majority of his hair. 
+Professor Dravaryn is pissed at Ruben for skipping class and Yotash for burning most of his hair.
+
+Kip said that Ruben is fucked and nothing he can do about it.
+Yotash said he want to go out on an adventure like his other brothers and Ruben. 
+Ruben can vouch for Yotash if he needs some recommendation.
+
+Brolasi asked how Yotash meet Kip. Yotash met Kip from his father and some lady.
+Yotash talked about his family's patrons.
+Kip said he get the pleasure of being friends with someone. Their contract is for Yotash benefits.
+
+Kip said that it's a fufilled contract so until all of his goals are met he can not die.
+
+Kip said that he can be killed by any normal means that would kill the devil.
+Kip explaied that killing him in the hells or reciting his actual name.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Persuation check 
+Brolasi 26
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Kip pointed to Brolasi and dared them to kill him. Brolasi said no and compagin the Monks for Punks
+Kip praised Brolasi on thier work and wanted Yotash to donate. Yotash reached into his pouch and gave 800gp to Brolasi
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Religion check
+Brolasi 22
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Brolasi knows that if the devil that made the contract dies (true death). All of their contracts becomes null and void
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Perception check
+Brolasi 23
+Ruben 16
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+As they walk away, a bigger student knocked over Yotash on accidnt.
+Before anyone can react, a shadow pours over the student. Kip starts to grow and become more fierce.
+Cloths tightening and he start to grow more fierce. Kip lift the child f4t off the ground and said
+I WILL FUCKING END YOU
+
+Yotash is begtging Kip to stop.
+
+Ruben and Brolasi coming backto the tavern
+
+Xucphr still see Ta'lisk still talking about top hats and the dean has so much information about the top hats.
+Ta'lisk start to run out of conversation
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Cons saving
+Xucphr 21
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Xucphr can fell Ta'lisk brain straining from all this information about high dimension top hats. Blood comes out of Ta'lsik nose from all of this information.
+
+Dean said "it's been hours about top hat and please contact me if you want to know more"
+Ta'lisk returns from his discussing with the Dean.
+
+Ruben and Brolasi notice the moustach that Pyretrix has.
+Pyretrix said they were gone for so long that it grew.
+Ruben said that we can't kill Kip cause it would cause trouble for Yotash. 
+Pyretrix is upset cause it sounds like Kip is good. Pyretrix goes to sleep and dread that he will have to talk to Sid
+
+Xucphr explaind that killing Kip will make the family and Kip's family upset while Sid may be a better choice to kill.
+Also explained that we can try to get Sid to attack Yotash thus making 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+End of Session 12
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+2025-05-16 Session 13
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
