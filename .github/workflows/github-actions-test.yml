@@ -16,3 +16,14 @@ jobs:
         run: |
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+
+  Test-LaTeX-Compile:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Check out repository
+          uses: actions/checkout@v2
+
+        - name: Generate PDF document
+          uses: hspaans/latexmk-action@v2.1.1
+          with: 
+            filename: sessions/S10/Session10.tex
