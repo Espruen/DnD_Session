@@ -22,7 +22,7 @@ jobs:
       steps:
         - name: Check out repository
           uses: actions/checkout@v2
-        - run: "export TEXINPUTS=.:DND-5e-LaTeX-Template-stable//:"
+        - run: "export TEXINPUTS=.:DND-5e-LaTeX-Template-stable/dndbook.cls//:"
         - name: Generate PDF document
           uses: hspaans/latexmk-action@v2.1.1
           with: 
