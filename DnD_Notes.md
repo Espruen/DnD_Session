@@ -2217,7 +2217,7 @@ Bone devil stating that we can not just strong-arm our way for negotiation
 Xucphr asked if there's anything that we can do to get Pyretrix soul back
 
 Sid said that we can kill his older brother.
-Older brother live in salvarian. Currently shacked up with the amonis family.
+Older brother live in salvarian. Currently shacked up with the Nemmonis family.
 A lot of contract with that family.
 
 We would have to kill him from existance. The sensational seven will have to figure it out
