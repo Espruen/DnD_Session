@@ -34,5 +34,16 @@ jobs:
             root_file: test.tex
           env:
             TEXINPUTS: ".:./DND-5e-LaTeX-Template-stable//:"
+            
+        - name: Move PDF Document
+          uses: actions/upload-artifact@v7
+          with:
+            name: PDF
+            path: test.pdf
+
+            
+            
+        
+  
           
 
