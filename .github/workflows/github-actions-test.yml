@@ -22,8 +22,15 @@ jobs:
       steps:
         - name: Check out repository
           uses: actions/checkout@v2
-        - run: "export TEXINPUTS=./DND-5e-LaTeX-Template-stable/dndbook.cls//:$TEXINPUTS"
+        - name: Download Custom template
+          run: | 
+            curl -OL https://github.com/rpgtex/DND-5e-LaTeX-Template/archive/master.zip
+            unzip master.zip
+        
         - name: Generate PDF document
-          uses: hspaans/latexmk-action@v2.1.1
+          uses: xu-cheng/latex-action@4.1.0
           with: 
-            filename: sessions/S10/Session10.tex
+            root_file: sessions/S10/Session10.tex
+          env:
+            TEXINPUTS: ".:./DND-5e-LaTeX-Template-stable//:"
+
