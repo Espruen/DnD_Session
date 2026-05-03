@@ -20,8 +20,6 @@ jobs:
   Test-LaTeX-Compile:
       runs-on: ubuntu-latest
       steps:
-        - name: Check out repository
-          uses: actions/checkout@v2
         - name: Download Custom template
           run: | 
             curl -OL https://github.com/rpgtex/DND-5e-LaTeX-Template/archive/master.zip
