@@ -12,15 +12,21 @@ cd $GIT_LOCATION
 
 LAST_ADV_LOG=$(ls -t adv_log/S* | head -1)
 
-#Create new Session folder 
-mkdir -p sessions/S${SESSION_NUMBER}
-
 #Copy template to new session folder 
-cp template/Template.tex sessions/S${SESSION_NUMBER}/Session${SESSION_NUMBER}.tex
+cp template/Template.tex sessions/Session${SESSION_NUMBER}.tex
+
+cat > summary/S${SESSION_NUMBER}_recap.tex << EOF
+\part*{Summary}
+\section{Story}
+\DndDropCapLine{T}{he Sensational Seven} 
+EOF
 
 #Copy previous adventure log and rename as new 
 cp ${LAST_ADV_LOG} adv_log/S${SESSION_NUMBER}_Adventure_Log.tex
 
 #Use latest adventure log 
-sed -i "s|\input{Adventure_Log}|\input{../../adv_log/S${SESSION_NUMBER}_Adventure_Log}|g" sessions/S${SESSION_NUMBER}/Session${SESSION_NUMBER}.tex
+sed -i "s|\input{Adventure_Log}|\input{adv_log/S${SESSION_NUMBER}_Adventure_Log}|g" sessions/Session${SESSION_NUMBER}.tex
+
+#Use latest adventure log 
+sed -i "s|\part\*{Latest_Session}|\part\*{Session ${SESSION_NUMBER}}|g" sessions/Session${SESSION_NUMBER}.tex
 

@@ -2,7 +2,7 @@ name: DND Github Action
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
-  Explore-GitHub-Actions:
+  Test-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
@@ -17,7 +17,7 @@ jobs:
           tree ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
 
-  Test-LaTeX-Compile:
+  LaTeX-Build:
       runs-on: ubuntu-latest
       steps:
         - name: Check out repository
@@ -35,10 +35,10 @@ jobs:
           env:
             TEXINPUTS: ".:./DND-5e-LaTeX-Template-stable//:"
             
-        - name: Move PDF Document
+        - name: Create Artifact
           uses: actions/upload-artifact@v7
           with:
-            name: PDF
+            name: Latest
             path: main.pdf
 
             
