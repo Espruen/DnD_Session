@@ -24,6 +24,9 @@ EOF
 #Copy previous adventure log and rename as new 
 cp ${LAST_ADV_LOG} adv_log/S${SESSION_NUMBER}_Adventure_Log.tex
 
+#Summary of last adventure included 
+sed -i "s|\input{Last_Adventure}|\input{summary/S${SESSION_NUMBER}_recap}|g" sessions/Session${SESSION_NUMBER}.tex
+
 #Use latest adventure log 
 sed -i "s|\input{Adventure_Log}|\input{adv_log/S${SESSION_NUMBER}_Adventure_Log}|g" sessions/Session${SESSION_NUMBER}.tex
 
