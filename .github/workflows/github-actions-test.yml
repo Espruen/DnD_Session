@@ -4,8 +4,6 @@ on: [push]
 jobs:
   Test-GitHub-Actions:
     runs-on: ubuntu-latest
-    env:
-      SESSION: "10"
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
@@ -32,8 +30,9 @@ jobs:
             unzip master.zip
 
         - name: Set Environment Variable
-          run: echo "SESSION=10" >> $GITHUB_ENV
-        - run: echo "$SESSION"
+          run: |
+            echo "SESSION=10" >> $GITHUB_ENV
+            echo "$SESSION"
         
         - name: Edit Main for Session Build
           run: |
