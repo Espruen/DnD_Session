@@ -17,6 +17,9 @@ sed -i "s|\input{Adventure_Log}|\input{adv_log/S${SESSION_NUMBER}_Adventure_Log}
 #Update session log for part 
 sed -i "s|\part\*{Latest_Session}|\part\*{Session ${SESSION_NUMBER}}|g" Session${SESSION_NUMBER}.tex
 
+for i in {1..2}; do
 pdflatex Session${SESSION_NUMBER}.tex
+done
+
 
 rm -rf *.aux *.log *.toc *.fls *.fdb_latexmk
