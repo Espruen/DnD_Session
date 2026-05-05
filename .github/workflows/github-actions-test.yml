@@ -50,7 +50,7 @@ jobs:
         - name: Create Artifact
           uses: actions/upload-artifact@v7
           with:
-            name: Session_"'$SESSION'"
+            name: Session_$SESSION
             path: main.pdf
 
             
