@@ -30,6 +30,6 @@ sed -i "s|\input{Last_Adventure}|\input{summary/S${SESSION_NUMBER}_recap}|g" ses
 #Use latest adventure log 
 sed -i "s|\input{Adventure_Log}|\input{adv_log/S${SESSION_NUMBER}_Adventure_Log}|g" sessions/Session${SESSION_NUMBER}.tex
 
-#Use latest adventure log 
+#Update session log for part 
 sed -i "s|\part\*{Latest_Session}|\part\*{Session ${SESSION_NUMBER}}|g" sessions/Session${SESSION_NUMBER}.tex
 

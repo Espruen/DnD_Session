@@ -4,6 +4,8 @@ on: [push]
 jobs:
   Test-GitHub-Actions:
     runs-on: ubuntu-latest
+    env: 
+      SESSION: "10"
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
@@ -28,6 +30,13 @@ jobs:
             curl -OL https://github.com/rpgtex/DND-5e-LaTeX-Template/archive/master.zip
             unzip master.zip
         
+        - name: Edit Main for Session Build
+          run: sed -i "s|\input{Last_Adventure}|\input{summary/S${env.SESSION}_recap}|g" main.tex
+          run: sed -i "s|\input{Adventure_Log}|\input{adv_log/S${env.SESSION}_Adventure_Log}|g" main.tex
+          run: sed -i "s|\part\*{Latest_Session}|\part\*{Session ${env.SESSION}}|g" main.tex
+
+
+
         - name: Generate PDF document
           uses: xu-cheng/latex-action@v3
           with: 
