@@ -32,7 +32,8 @@ jobs:
         - name: Set Environment Variable
           run: |
             echo "SESSION=10" >> $GITHUB_ENV
-            echo "$SESSION"
+            echo "${SESSION}"
+            echo "${{SESSION}}"
         
         - name: Edit Main for Session Build
           run: |
