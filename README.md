@@ -5,8 +5,8 @@
 ## Purpose
 This repo is to share notes with the Dragons and D-Gens campaign. The notes are generated using LaTex, which is a markup language for documentation. The [DnD-5e-LaTeX-Template](https://github.com/rpgtex/DND-5e-LaTeX-Template/tree/dev) was used to create the typesetting documents with a DND-type style and feel
 
-##  ==Note==
-The notes here are from Session 7 and onwards. Creating notes from previous sessions may not provide the same level of details, such as rolls, items obtained, etc. 
+##  Note
+==The notes here are from Session 7 and onwards.== Creating notes from previous sessions may not provide the same level of details, such as rolls, items obtained, etc. 
 
 ## Structure
 | Directory | Description                                           |
