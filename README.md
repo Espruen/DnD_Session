@@ -1,7 +1,10 @@
-# Journey Through Tellus Campaign Notes
+# Journey Through Tellus Notes
 
 <img width="1024" height="1024" alt="ChatGPT_Image_Jul_16_2025_10_29_37_AM" src="https://github.com/user-attachments/assets/27af10ed-2432-490c-b4a7-aea106169a66" />
 
 ## Purpose
-This repo is to share notes with campaign members, including myself, for the Dragons and D-Gens group. The notes are generated using LaTex, which is a markup language for documentation. The [DnD-5e-LaTeX-Template](https://github.com/rpgtex/DND-5e-LaTeX-Template/tree/dev) was used to create the typesetting documents with a DND style for the documents.
+This repo is to share notes with the Dragons and D-Gens campaign. The notes are generated using LaTex, which is a markup language for documentation. The [DnD-5e-LaTeX-Template](https://github.com/rpgtex/DND-5e-LaTeX-Template/tree/dev) was used to create the typesetting documents with a DND-type style and feel.
+
+## Note
+The notes here are from Session 7 and onwards. Creating notes from previous sessions may not provide the same level of details, such as rolls, items obtained, etc. 
 
