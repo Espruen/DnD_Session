@@ -16,10 +16,9 @@ The notes here are from Session 7 and onwards. Creating notes from previous sess
 | characters | (WIP) Contains Monster, NPC, and Player information |
 | map_area | Description of each area within Tellus from the campaign | 
 | summary | Brief description of each session |
-| template | Used to generate the files for the next session |
 | build_pdf.sh | Generate the pdf file using the template directory |
 | create_new_session.sh | (WIP) Create dummy session with new session number for editing |
-| main.tex | (WIP) Used for local and Github Action testing/debugging |
+| main.tex | (WIP) Template for generating session notes |
 
 
 
