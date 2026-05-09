@@ -3,17 +3,25 @@ set -euo pipefail
 umask 0002
 SESSION_NUMBER=$1
 
+banner () {
+echo ":::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+echo ">> $1"
+echo ":::::::::::::::::::::::::::::::::::::::::::::::::::::::"
+}
+
 THIS_SCRIPT=$(readlink -f "$0")
 THIS_SCRIPT_DIR=$(basename "$0")
 DATE=$(date --rfc-3339=seconds)
 
-GIT_LOCATION=$HOME/GitHub/DnD_Session
+banner "Creating Session ${SESSION_NUMBER}"
+
+GIT_LOCATION=$PWD
 cd $GIT_LOCATION
 
 LAST_ADV_LOG=$(ls -t adv_log/S* | head -1)
 
 #Copy template to new session folder 
-cp template/Template.tex sessions/Session${SESSION_NUMBER}.tex
+cp main.tex sessions/Session${SESSION_NUMBER}.tex
 
 cat > summary/S${SESSION_NUMBER}_recap.tex << EOF
 \part*{Summary}
