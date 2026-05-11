@@ -2,6 +2,20 @@
 
 \section{Ruben}
 
+\subsection {Attack}
+\DndSpellHeader%
+  {\textbf{Canseco Bat}}
+  {Warhammer}
+  {1 action}
+  {5 feet}
+  {Versatile (1d10), Push}
+  {Instantaneous}
+  %{\textbf{Attack/Save}: WIS 13}\\\
+his baseball bat uses the statistics of a +1 warhammer. 
+If a hostile creature misses you with a ranged spell attack while wielding this bat, you can use your reaction to redirect the attack at another creature you can see within 30 feet of you, using this weapon’s attack bonus for the new attack roll. 
+Once you use this property, you can’t do so again until the next dawn.
+
+
 \subsection {Cantrips}
 \DndSpellHeader%
   {\textbf{Toll the Dead}}
@@ -34,57 +48,54 @@ You brandish the weapon used in the spell’s casting and make a melee attack wi
 \subsection {Class Features}
 \begingroup
 \DndSetThemeColor[PhbMauve]
-\begin{DndComment}{Second Wind}
-	You gain a Fighting Style feat of your choice, and whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
+
+\begin{DndComment}{Fighting Style}
+	You have honed your martial prowess and gain a Fighting Style feat of your choice.
+	Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
 \end{DndComment}
 
-\begin{DndComment}{Spellcasting}
-	You have learned to cast spells through prayer and meditation.
-	
-	Spell Slots. The Paladin Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
-	
-	Prepared Spells of Level 1+. You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Paladin spells.
-	
-	The number of spells on your list increases as you gain Paladin levels, as shown in the Prepared Spells column of the Paladin Features table. Whenever that number increases, choose additional Paladin spells until the number of spells on your list matches the number in the Paladin Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Paladin, your list of prepared spells can include six Paladin spells of level 1 or 2 in any combination.
-	
-	If another Paladin feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Paladin spells for you.
-	
-	Changing Your Prepared Spells. Whenever you finish a Long Rest, you can replace one spell on your list with another Paladin spell for which you have spell slots.
-	
-	Spellcasting Ability. Charisma is your spellcasting ability for your Paladin spells.
-	
-	Spellcasting Focus. You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.
+
+\begin{DndComment}{Second Wind}
+	As a Bonus Action, you can draw upon a limited well of physical and mental stamina and regain {1d10+7} HP. 
+	You can use this 3 times per Long Rest, and can regain one expended use when you finish a Short Rest.
+\end{DndComment}
+
+\begin{DndComment}{Action Surge}
+	You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action, except the Magic action.
+	Once you use this feature, you can’t do so again until you finish a Short or Long Rest. 
+	Starting at level 17, you can use it twice before a rest but only once on a turn.
 \end{DndComment}
 
 \begin{DndComment}{Weapon Mastery}
-	Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency.
+	Your training with weapons allows you to use the mastery properties of three kinds of Simple or Martial weapons of your choice. 
+	Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 	
-	Whenever you finish a Long Rest, you can change the kinds of weapons you chose.
+	When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 	
-	\textbf{Quarterstaff (Topple).} Your training with weapons allows you to use the mastery property of Quarterstaffs:
+	\textbf{Warhammer (Push):} Your training with weapons allows you to use the mastery property of Warhammers:
+	\textbf{Push:} If you hit a creature with Warhammer, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.
+
+	\textbf{Quarterstaff (Topple):} Your training with weapons allows you to use the mastery property of Quarterstaffs:
 	
 	\textbf{Topple:} If you hit a creature with a Quarterstaff, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the Prone condition.
 	
-	\textbf{Longsword (Sap)} Your training with weapons allows you to use the mastery property of Longswords:
+	\textbf{Club (Slow):} Your training with weapons allows you to use the mastery property of Clubs:
 	
-	\textbf{Sap:} If you hit a creature with a Longsword, that creature has Disadvantage on its next attack roll before the start of your next turn.
+	\textbf{Slow:}  If you hit a creature with a Club and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. 
+	If the creature is hit more than once by weapons that have this property, the Speed reduction doesn’t exceed 10 feet.
 	
 	\textbf{Topple (Quarterstaff):} 1 Action
-	
-	\textbf{Sap (Longsword):} 1 Action
+	\textbf{Push (Warhammer):} 1 Action
+	\textbf{Slow (Club):} 1 Action
 
 \end{DndComment}
 
 
-\begin{DndComment}{Channel Divinity}
-	You can channel divine energy directly from the Outer Planes, using it to fuel magical effects. You start with one such effect: Divine Sense, which is described below. Other Paladin features give additional Channel Divinity effect options. Each time you use this class’s Channel Divinity, you choose which effect from this class to create.
-	
-	You can use this class’s Channel Divinity twice. You regain one of its expended uses when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest. You gain an additional use when you reach Paladin level 11.
-	
-	If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class’s Spellcasting feature.
-	
-	\textbf{Divine Sense:} As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the Hallow spell.
-	
+\begin{DndComment}{Tactical Mind}
+	You have a mind for tactics on and off the battlefield. 
+	When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. 
+	Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. 
+	If the check still fails, this use of Second Wind isn’t expended.
 	
 \end{DndComment}
 
