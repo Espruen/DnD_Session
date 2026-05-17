@@ -41,3 +41,4 @@ sed -i "s|\input{Adventure_Log}|\input{adv_log/S${SESSION_NUMBER}_Adventure_Log}
 #Update session log for part 
 sed -i "s|\part\*{Latest_Session}|\part\*{Session ${SESSION_NUMBER}}|g" sessions/Session${SESSION_NUMBER}.tex
 
+cp sessions/Session${SESSION_NUMBER}.tex ${GIT_LOCATION}
