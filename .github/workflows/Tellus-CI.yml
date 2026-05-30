@@ -1,22 +1,32 @@
 name: DND Github Action
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
-on: [push]
+run-name: Merge Request ${{ github.actor }}
+on: 
+  push:
+    branches:
+      - main
+      - 'release/**' 
 jobs:
-  Test-GitHub-Actions:
+  Sanity-Check:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
-      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
-      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - run: echo "Current Job = ${{ github.job }}"
+      - run: echo "Repo Owner = ${{ github.repository.owner }}"
+      - run: echo "GitHub Event = ${{ github.event_name }}"
+      - run: echo "OS = ${{ runner.os }} server hosted by GitHub!"
+      - run: echo "Repository = ${{ github.repository }}"
+      - run: echo "Branch Name = ${{ github.ref }}"
+      - run: echo "Reference Name = ${{ github.ref_name }}"
+      - run: echo "Actor = ${{ github.actor }}"
+
       - name: Check out repository code
         uses: actions/checkout@v6
-      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
-      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
+
       - name: List files in the repository
         run: |
           tree ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - run: env > environment.txt
+
       - name: Create Environment Artifact
         uses: actions/upload-artifact@v7
         with:
@@ -26,6 +36,9 @@ jobs:
   LaTeX-Build:
       runs-on: ubuntu-latest
       steps:
+        - name: Current Job
+          run: echo  "${{ github.job }}"
+        
         - name: Check out repository
           uses: actions/checkout@v6
           
