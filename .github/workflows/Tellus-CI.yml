@@ -1,10 +1,7 @@
 name: DND Github Action
 run-name: Merge Request ${{ github.actor }}
 on: 
-  push:
-    branches:
-      - main
-      - 'release/**' 
+  [push]
 jobs:
   Sanity-Check:
     runs-on: ubuntu-latest
