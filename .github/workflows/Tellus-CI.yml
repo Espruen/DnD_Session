@@ -6,14 +6,15 @@ jobs:
   Sanity-Check:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Current Job = ${{ github.job }}"
-      - run: echo "Repo Owner = ${{ github.repository.owner }}"
-      - run: echo "GitHub Event = ${{ github.event_name }}"
-      - run: echo "OS = ${{ runner.os }} server hosted by GitHub!"
-      - run: echo "Repository = ${{ github.repository }}"
-      - run: echo "Branch Name = ${{ github.ref }}"
-      - run: echo "Reference Name = ${{ github.ref_name }}"
-      - run: echo "Actor = ${{ github.actor }}"
+      - run: |
+          echo "Current Job = ${{ github.job }}"
+          echo "Repo Owner = ${{ github.repository_owner }}"
+          echo "GitHub Event = ${{ github.event_name }}"
+          echo "OS = ${{ runner.os }} server hosted by GitHub!"
+          echo "Repository = ${{ github.repository }}"
+          echo "Branch Name = ${{ github.ref }}"
+          echo "Reference Name = ${{ github.ref_name }}"
+          echo "Actor = ${{ github.actor }}"
 
       - name: Check out repository code
         uses: actions/checkout@v6
@@ -30,8 +31,30 @@ jobs:
           name: environment
           path: environment.txt
 
+
+  Latest-Update:
+      runs-on: ubuntu-latest
+      steps:
+        - name: Checkout Repository
+          run: |
+              LATEST_SUMMARY=$( ls -1r summary/ | head -n1 )
+              LATEST_ADV_LOG=$( ls -1r adv_log/ | head -n1 )
+              SESSION_NUMBER=$( ls -1r sessions/ | head -n1 | sed 's/[^0-9]//g' )
+
+        - name: Set Var
+          run: |
+            echo "LATEST_SUMMARY=${LATEST_SUMMARY} >> $GITHUB_ENV"
+            echo "LATEST_LOG=${LATEST_ADV_LOG} >> $GITHUB_ENV"
+            echo "SESSION_NUMBER=${SESSION_NUMBER} >> $GITHUB_ENV"
+
+
+
+
+
   LaTeX-Build:
       runs-on: ubuntu-latest
+      needs:
+        Latest-Update
       steps:
         - name: Current Job
           run: echo  "${{ github.job }}"
@@ -50,9 +73,9 @@ jobs:
         
         - name: Edit Main for Session Build
           run: |
-            sed -i "s|\input{Last_Adventure}|\input{summary/S"$SESSION"_recap}|g" main.tex
-            sed -i "s|\input{Adventure_Log}|\input{adv_log/S"$SESSION"_Adventure_Log}|g" main.tex
-            sed -i "s|\part\*{Latest_Session}|\part\*{Session "$SESSION"}|g" main.tex
+            sed -i "s|\input{Last_Adventure}|\input{summary/${{ env.LATEST_SUMMARY}}}|g" main.tex
+            sed -i "s|\input{Adventure_Log}|\input{adv_log/${{ env.LATEST_LOG}}}|g" main.tex
+            sed -i "s|\part\*{Latest_Session}|\part\*{Session ${{ env.SESSION_NUMBER}}}|g" main.tex
 
 
 
