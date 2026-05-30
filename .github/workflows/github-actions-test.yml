@@ -16,6 +16,12 @@ jobs:
         run: |
           tree ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
+      - run: env > environment.txt
+      - name: Create Environment Artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: environment
+          path: environment.txt
 
   LaTeX-Build:
       runs-on: ubuntu-latest
