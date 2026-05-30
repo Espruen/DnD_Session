@@ -46,9 +46,9 @@ jobs:
 
         - name: Find Latest Files
           run: |
-              LATEST_SUMMARY=$( ls -1r ${{ github.workspace }}/summary/ | head -n1 )
-              LATEST_ADV_LOG=$( ls -1r ${{ github.workspace }}/adv_log/ | head -n1 )
-              SESSION_NUMBER=$( ls -1r ${{ github.workspace }}/sessions/ | head -n1 | sed 's/[^0-9]//g' )
+              LATEST_SUMMARY=$( ls -1r "${{ github.workspace }}/summary/"| head -n1 )
+              LATEST_ADV_LOG=$( ls -1r "${{ github.workspace }}/adv_log/"| head -n1 )
+              SESSION_NUMBER=$( ls -1r "${{ github.workspace }}/sessions/" | head -n1 | sed 's/[^0-9]//g' )
 
         - name: Set Variables for Next Job
           id: latest_variables
