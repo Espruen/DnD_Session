@@ -44,25 +44,22 @@ jobs:
         - name: Checkout Repository
           uses: actions/checkout@v6
 
-        - name: Find Latest Files
+        - name: Set Environment Variables
+          id: latest_variables
           run: |
               LATEST_SUMMARY=$( ls -1r "${{ github.workspace }}/summary/"| head -n1 )
               LATEST_ADV_LOG=$( ls -1r "${{ github.workspace }}/adv_log/"| head -n1 )
               SESSION_NUMBER=$( ls -1r "${{ github.workspace }}/sessions/" | head -n1 | sed 's/[^0-9]//g' )
-
-        - name: Set Variables for Next Job
-          id: latest_variables
-          run: |
-            echo "LATEST_SUMMARY=${LATEST_SUMMARY}" >> "$GITHUB_OUTPUT"
-            echo "LATEST_LOG=${LATEST_ADV_LOG}" >> "$GITHUB_OUTPUT"
-            echo "SESSION_NUMBER=${SESSION_NUMBER}" >> "$GITHUB_OUTPUT"
+              echo "LATEST_SUMMARY=${LATEST_SUMMARY}" >> "$GITHUB_OUTPUT"
+              echo "LATEST_LOG=${LATEST_ADV_LOG}" >> "$GITHUB_OUTPUT"
+              echo "SESSION_NUMBER=${SESSION_NUMBER}" >> "$GITHUB_OUTPUT"
 
 
 
   LaTeX-Build:
       runs-on: ubuntu-latest
       needs:
-        Latest-Update
+        "Latest-Update"
       steps:
         - name: Current Job
           run: echo  "${{ github.job }}"
