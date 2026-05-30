@@ -71,10 +71,6 @@ jobs:
           run: | 
             curl -OL https://github.com/rpgtex/DND-5e-LaTeX-Template/archive/master.zip
             unzip master.zip
-
-        - name: Set Environment Variable
-          run: echo "SESSION=11" >> $GITHUB_ENV
-        - run: echo "'$SESSION'"
         
         - name: Edit Main for Session Build
           run: |
