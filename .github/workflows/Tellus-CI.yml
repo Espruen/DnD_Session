@@ -35,9 +35,9 @@ jobs:
   Latest-Update:
       runs-on: ubuntu-latest
       outputs:
-        l_summary: ${{ steps.get_latest_variables.outputs.LATEST_SUMMARY }}
-        l_log: ${{ steps.get_latest_variables.outputs.LATEST_LOG }}
-        l_session: ${{ steps.get_latest_variables.outputs.SESSION_NUMBER }}
+        l_summary: ${{ steps.latest_variables.outputs.LATEST_SUMMARY }}
+        l_log: ${{ steps.latest_variables.outputs.LATEST_LOG }}
+        l_session: ${{ steps.latest_variables.outputs.SESSION_NUMBER }}
 
         
       steps:
