@@ -6,14 +6,15 @@ jobs:
   Sanity-Check:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Current Job = ${{ github.job }}"
-      - run: echo "Repo Owner = ${{ github.repository.owner }}"
-      - run: echo "GitHub Event = ${{ github.event_name }}"
-      - run: echo "OS = ${{ runner.os }} server hosted by GitHub!"
-      - run: echo "Repository = ${{ github.repository }}"
-      - run: echo "Branch Name = ${{ github.ref }}"
-      - run: echo "Reference Name = ${{ github.ref_name }}"
-      - run: echo "Actor = ${{ github.actor }}"
+      - run: |
+          echo "Current Job = ${{ github.job }}"
+          echo "Repo Owner = ${{ github.repository_owner }}"
+          echo "GitHub Event = ${{ github.event_name }}"
+          echo "OS = ${{ runner.os }} server hosted by GitHub!"
+          echo "Repository = ${{ github.repository }}"
+          echo "Branch Name = ${{ github.ref }}"
+          echo "Reference Name = ${{ github.ref_name }}"
+          echo "Actor = ${{ github.actor }}"
 
       - name: Check out repository code
         uses: actions/checkout@v6
@@ -30,8 +31,35 @@ jobs:
           name: environment
           path: environment.txt
 
+
+  Latest-Update:
+      runs-on: ubuntu-latest
+      outputs:
+        l_summary: ${{ steps.latest_variables.outputs.LATEST_SUMMARY }}
+        l_log: ${{ steps.latest_variables.outputs.LATEST_LOG }}
+        l_session: ${{ steps.latest_variables.outputs.SESSION_NUMBER }}
+
+        
+      steps:
+        - name: Checkout Repository
+          uses: actions/checkout@v6
+
+        - name: Set Environment Variables
+          id: latest_variables
+          run: |
+              LATEST_SUMMARY=$( ls -1r "${{ github.workspace }}/summary/"| head -n1 )
+              LATEST_ADV_LOG=$( ls -1r "${{ github.workspace }}/adv_log/"| head -n1 )
+              SESSION_NUMBER=$( ls -1r "${{ github.workspace }}/sessions/" | head -n1 | sed 's/[^0-9]//g' )
+              echo "LATEST_SUMMARY=${LATEST_SUMMARY}" >> "$GITHUB_OUTPUT"
+              echo "LATEST_LOG=${LATEST_ADV_LOG}" >> "$GITHUB_OUTPUT"
+              echo "SESSION_NUMBER=${SESSION_NUMBER}" >> "$GITHUB_OUTPUT"
+
+
+
   LaTeX-Build:
       runs-on: ubuntu-latest
+      needs:
+        "Latest-Update"
       steps:
         - name: Current Job
           run: echo  "${{ github.job }}"
@@ -43,16 +71,12 @@ jobs:
           run: | 
             curl -OL https://github.com/rpgtex/DND-5e-LaTeX-Template/archive/master.zip
             unzip master.zip
-
-        - name: Set Environment Variable
-          run: echo "SESSION=11" >> $GITHUB_ENV
-        - run: echo "'$SESSION'"
         
         - name: Edit Main for Session Build
           run: |
-            sed -i "s|\input{Last_Adventure}|\input{summary/S"$SESSION"_recap}|g" main.tex
-            sed -i "s|\input{Adventure_Log}|\input{adv_log/S"$SESSION"_Adventure_Log}|g" main.tex
-            sed -i "s|\part\*{Latest_Session}|\part\*{Session "$SESSION"}|g" main.tex
+            sed -i "s|\input{Last_Adventure}|\input{summary/${{ needs.Latest-Update.outputs.l_summary }}}|g" main.tex
+            sed -i "s|\input{Adventure_Log}|\input{adv_log/${{ needs.Latest-Update.outputs.l_log }}}|g" main.tex
+            sed -i "s|\part\*{Latest_Session}|\part\*{Session ${{ needs.Latest-Update.outputs.l_session }}}|g" main.tex
 
 
 
@@ -66,7 +90,7 @@ jobs:
         - name: Create Artifact
           uses: actions/upload-artifact@v7
           with:
-            name: Session_${{env.SESSION}}
+            name: Session_${{ needs.Latest-Update.outputs.l_session }}
             path: main.pdf
 
             
