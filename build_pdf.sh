@@ -16,7 +16,7 @@ echo :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 
-if [[ ! -z Session${SESSION_NUMBER}.tes ]]; then
+if [[ ! -z Session${SESSION_NUMBER}.tex ]]; then
 	cp main.tex Session${SESSION_NUMBER}.tex
 fi
 
