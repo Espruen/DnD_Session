@@ -15,7 +15,6 @@ echo :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 }
 
 
-
 if [[ ! -z Session${SESSION_NUMBER}.tex ]]; then
 	cp main.tex Session${SESSION_NUMBER}.tex
 fi
@@ -43,4 +42,5 @@ banner "Move files to session and note directory"
 mv Session${SESSION_NUMBER}.tex sessions
 mv Session${SESSION_NUMBER}.pdf notes
 
+banner "Clean-up"
 rm -rf *.aux *.log *.toc *.fls *.fdb_latexmk
