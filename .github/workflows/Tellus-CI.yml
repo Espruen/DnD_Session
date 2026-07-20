@@ -54,6 +54,12 @@ jobs:
               echo "LATEST_LOG=${LATEST_ADV_LOG}" >> "$GITHUB_OUTPUT"
               echo "SESSION_NUMBER=${SESSION_NUMBER}" >> "$GITHUB_OUTPUT"
 
+        - name: Output Variables
+          run: |
+            echo "LATEST_SUMMARY"
+            echo "LATEST_LOG"
+            echo "SESSION_NUMBER"
+
 
   Cast-Spell:
       runs-on: ubuntu-latest
