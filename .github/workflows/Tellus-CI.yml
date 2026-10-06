@@ -1,7 +1,17 @@
 name: DND Github Action
 run-name: ${{ github.actor }} Invaiding The Repo!!!
 on: 
-  [push]
+  pull_request:
+    types: [opened,closed]
+    branches:
+      - main
+    paths:
+      - adv_log/**/*.tex
+      - sessions/**/*.tex
+      - summary/**/*.tex
+    
+
+    
 jobs:
   Check-Inventory:
     runs-on: ubuntu-latest
@@ -38,8 +48,6 @@ jobs:
         l_summary: ${{ steps.latest_variables.outputs.LATEST_SUMMARY }}
         l_log: ${{ steps.latest_variables.outputs.LATEST_LOG }}
         l_session: ${{ steps.latest_variables.outputs.SESSION_NUMBER }}
-
-        
       steps:
         - name: Checkout Repository
           uses: actions/checkout@v6
@@ -59,6 +67,8 @@ jobs:
             echo "LATEST_SUMMARY"
             echo "LATEST_LOG"
             echo "SESSION_NUMBER"
+      rules:
+        -if: $CI_PIPELINE_SOURCE == "merge_request_event"
 
 
   Cast-Spell:
