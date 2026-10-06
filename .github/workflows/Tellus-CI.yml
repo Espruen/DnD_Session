@@ -67,8 +67,6 @@ jobs:
             echo "LATEST_SUMMARY"
             echo "LATEST_LOG"
             echo "SESSION_NUMBER"
-      rules:
-        -if: $CI_PIPELINE_SOURCE == "merge_request_event"
 
 
   Cast-Spell:
