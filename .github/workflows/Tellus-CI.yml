@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - feature/CI_Trigger
     paths:
       - adv_log/**/*.tex
       - sessions/**/*.tex
