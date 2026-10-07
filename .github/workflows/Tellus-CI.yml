@@ -95,6 +95,7 @@ jobs:
           uses: xu-cheng/latex-action@v4
           with: 
             root_file: main.tex
+            pre_compile: "tlmgr update --self && tlmgr update --all"
           env:
             TEXINPUTS: ".:./DND-5e-LaTeX-Template-stable//:"
             
