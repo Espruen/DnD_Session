@@ -10,6 +10,16 @@ on:
       - sessions/**/*.tex
       - summary/**/*.tex
       - characters/**/*.tex
+
+  pull_request:
+    branches:
+      - main
+      - feature/CI_Trigger
+    paths:
+      - adv_log/**/*.tex
+      - sessions/**/*.tex
+      - summary/**/*.tex
+      - characters/**/*.tex
     
 
     
