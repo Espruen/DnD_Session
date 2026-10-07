@@ -8,6 +8,7 @@ on:
       - adv_log/**/*.tex
       - sessions/**/*.tex
       - summary/**/*.tex
+      - characters/**/*.tex
     
 
     
